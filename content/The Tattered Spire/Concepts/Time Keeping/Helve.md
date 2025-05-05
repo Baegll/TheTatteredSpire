@@ -1,0 +1,1 @@
+This week is intended to regain composure and return to the self.

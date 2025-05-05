@@ -1,0 +1,16 @@
+The largest mountain range in [[Naouk]]. Located in the north of [[Aurelin]], its many peaks protect [[Diveneu]] from attack
+
+## [[Mt. Veridian]]
+## [[Mt. Grimsteel]]
+## [[Mt. Carigman]]
+## [[Mt. Emsshire]]
+## [[Mt. Kiwen]]
+## [[Mt. Zarindel]]
+## [[Mt. Bloodrock]]
+## [[Mt. Oryndral]]
+## [[Mt. Celivus]]
+## [[Mt. Idstran]]
+## [[Mt. Wakiston]]
+## [[Mt. Opesuth]]
+## [[Mt. Oversfig]]
+## [[Mt. Kalimbon]]

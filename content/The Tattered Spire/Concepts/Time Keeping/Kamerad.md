@@ -1,0 +1,1 @@
+This week is intended to surrender your self to the current [[Solams]] divine aspect.
