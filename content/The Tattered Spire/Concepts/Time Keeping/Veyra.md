@@ -1,1 +1,0 @@
-This week is intended to weigh your self against the current [[Solams]] divine aspect. Often a time for reflection. 

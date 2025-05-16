@@ -6,6 +6,7 @@ The largest mountain range in [[Naouk]]. Located in the north of [[Aurelin]], it
 ## [[Mt. Emsshire]]
 ## [[Mt. Kiwen]]
 ## [[Mt. Zarindel]]
+## [[Mt. Faen]]
 ## [[Mt. Bloodrock]]
 ## [[Mt. Oryndral]]
 ## [[Mt. Celivus]]
