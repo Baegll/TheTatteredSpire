@@ -13,26 +13,34 @@ create a github account.
 create a ssh key
 git check out [The Tattered Spire repository](https://github.com/Baegll/TheTatteredSpire)
 ensure your remote is set correctly by running:
+
 ```
 git remote add upstream https://github.com/jackyzha0/quartz.git
 ```
+
 and
+
 ```
 git remote set-url origin git@github.com:Baegll/TheTatteredSpire.git
 ```
-set up quartz prerequisites:
-Node v20 and npm v9.3.1
 
-run `npm i`
+set up quartz prerequisites, the docs are at: https://quartz.jzhao.xyz/
+
+Specifically, you'll need to install Node v20 and npm v9.3.1
+
+then run `npm i` to set up your package-lock, which lets you build
 
 
 ### Render your changes locally!
+Quarts has an explanation here: https://quartz.jzhao.xyz/build
+
 ```
 npx quartz build --serve
 ```
+
 This will start a local web server to run the vault from your computer. Open a browser and visit `http://localhost:8080/` to view it.
 
 ### Commit your changes!
-If you've set up your github account properly and created an ssh key, you should be able to publish to your fork of the site, and then submit a pull request to the main notes!
+So, Quartz explanation is here: https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
 
-To do so, you'll run a sync against your fork with npx quartz sync
+However, since we have a single repository and youre not creating a new quartz vault, you'll be creating a fork of the main repo. Then you should be able to pull down your fork, make changes, `npx quartz sync` with your fork, and then commit a Pull Request (PR) to bring your changes from your fork into the main 'v4' repo!

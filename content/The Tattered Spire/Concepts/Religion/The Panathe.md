@@ -6,7 +6,7 @@ Worshipers of Alavandor seek to take. Inspiring questing adventurers, for towns 
 ## [[Netandiel]]
 Celebrated on [[Netdae]]. Netandiel is known as the Ferrymen, a deity of forgiveness, death, lost souls, judgement, the underdark, and time.
 
-Worshipers of Netandiel seek to guide. Stewards of the afterlife and guides to the beyond. When plagues, hordes, or great monsters incite terror, Netandites bring comfort, whether by putting down the threat, or easing the passing of those suffering.
+Worshipers of Netandiel [[Netandites|(Netandites)]] seek to guide. Stewards of the afterlife and guides to the beyond. When plagues, hordes, or great monsters incite terror, Netandites bring comfort, whether by putting down the threat, or easing the passing of those suffering.
 ## [[Zedancial]]
 Celebrated on [[Zedae]]. Zedancial is known as the Laughing Bloom, a deity of mirth, whismy, flowers, dreams, trickery, summer, and the fey.
 
@@ -14,7 +14,7 @@ Worshipers of Zedancial seek to delight. Their joy is a weapon, their laughter c
 ## [[Vordekael]]
 Celebrated on [[Vordendae]]. Vordekael is known as the Morninglord, and a deity of dawn, renewal, birth, athletics, spring, self-perfection, vitality, and youth.
 
-Worshipers of Vodekael seek to build. Encouraging the rebirth of desolated areas and for villages to grow into towns, and towns into cities. To do this, they battle monsters, plant seeds, serve the public, recover lost magical items, literature, and works of art.
+Worshipers of Vodekael [[Vordekaes|(Vordekaes)]] seek to build. Encouraging the rebirth of desolated areas and for villages to grow into towns, and towns into cities. To do this, they battle monsters, plant seeds, serve the public, recover lost magical items, literature, and works of art.
 ## [[Tokon]]
 Celebrated on [[Tondae]]. Tokon is known as Breaker of Chains, a deity of perseverance, cruelty, shadow, secrets, and torment.
 
