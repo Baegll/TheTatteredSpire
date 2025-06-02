@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dae
+tags:
+  - time
 ---
 
 Dae-es

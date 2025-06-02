@@ -1,3 +1,9 @@
+---
+tags:
+  - time
+  - religion
+  - diveneu
+---
 A terrifying [[Yehr]] where the sun was slowly eclipsed by [[Neton]]. The total eclipse happened during the [[Kamerad]] of [[Halionde]]. For six full [[Daes]], the moon hung eerily still in front of the sun casting the world into an unnatural twilight that pulsed with shadowy energy. The eclipse was no ordinary celestial event, [[Neton]] appeared to have turned obsidian black, its surface rippling like liquid stone, giving the eclipse its ominous name.
 
 ## The Neton Schism
@@ -16,5 +22,5 @@ On [[Alvdae]] of the next [[Woxs|Wox]]. The obsidian appeared to crack and shatt
 
 [[Netandites]] began practicing [[Eclipse Vigils]], preparing for future divine messages that might delay or accelerate the afterlife journey. Claiming they reacted hastily to the signal from [[Neton]] and misinterpreted the event to be an acceleration to the afterlife, when in reality with more understanding they realized it was a sign of delay to the afterlife.
 
-[[The Crested Families]] shifted slightly, modifying [[The Diveneu Council]] to no longer include religious seats for leaders of [[The Panathe]] so that they might not gain too much autonomous power. [[The Diveneu Council|The Council]] also established that despite religious differences, the importance of [[Solam Bells]] as time keeping devices is more important, and for their ringing to be coordinated by a secular timekeeper, who would coordinate with [[The Panathe]] leaders.
+[[The Crested Families]] shifted slightly, modifying [[The Diveneu Council]] to no longer include religious seats for leaders of [[The Panath]] so that they might not gain too much autonomous power. [[The Diveneu Council|The Council]] also established that despite religious differences, the importance of [[Solam Bells]] as time keeping devices is more important, and for their ringing to be coordinated by a secular timekeeper, who would coordinate with [[The Panath]] leaders.
 

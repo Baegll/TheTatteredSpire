@@ -1,6 +1,8 @@
 ---
 aliases:
   - Crestative
+tags:
+  - diveneu
 ---
 
 [[The Crestative Families]] are powerful families which do not yet have direct votes of power in [[The Diveneu Council]]. These families are often skilled in politics, trade, and war with eachother for scraps of power to hopefully one day become [[The Crested Families|Crested]]. They often own districts, manage political organizations, or own large portions of [[The Copper District]].
@@ -27,7 +29,7 @@ The Kinslams are [[Tokonites]] who were the primary caretakers of [[The Crypt of
 ### [[The Goldcrowe Family]]
 A family of [[Aarakocra]], they run the largest banks in [[The Copper District]], their banks formerly owned by [[The Copper Pocket]]s, the Goldcrowe's have been steadily gaining power in the absence of the Copper Pockets directly running their banks.
 ### [[The Sapphistle Family]]
-A devout human family that maintains the [[Solam Bells]] throughout [[Diveneu]]. Each morning, they ensure the iron bells rings with clarity and proper tones for each [[Daes|Dae]]. Their deep knowledge of [[Time Keeping]] and [[The Panathe]] are an essential role in the towns daily worshop, which has earned them significant respect. Though their humble nature keeps them from overtly seeking greater political power.
+A devout human family that maintains the [[Solam Bells]] throughout [[Diveneu]]. Each morning, they ensure the iron bells rings with clarity and proper tones for each [[Daes|Dae]]. Their deep knowledge of [[Time Keeping]] and [[The Panath]] are an essential role in the towns daily worshop, which has earned them significant respect. Though their humble nature keeps them from overtly seeking greater political power.
 ### [[The Shadowbind Family]]
 A secretive Tiefling family of [[Tokonites]] who operate the city's underworld. They run prison systems, interrogation services, and coordinate illicit trade networks. Their understanding of suffering and perseverance makes them both feared and respected.
 ### [[The Swiftquile Family]]

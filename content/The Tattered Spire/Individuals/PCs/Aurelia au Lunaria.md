@@ -7,9 +7,9 @@ tags:
 ---
 ---
 
-| Player Name | Class   | Lvl | Experience | Race  | Height | Age | Gender | Background    |
-| ----------- | ------- | --- | ---------- | ----- | ------ | --- | ------ | ------------- |
-| @Baegll     | Paladin | 4   | 2700       | Human | 6'1"   | 24  | Female | Guild Artisan |
+| Player Name | Class       | Lvl | Experience | Race      | Height | Age | Gender | Background        |
+| ----------- | ----------- | --- | ---------- | --------- | ------ | --- | ------ | ----------------- |
+| @Baegll     | [[Paladin]] | 4   | 2700       | [[Human]] | 6'1"   | 24  | Female | [[Guild Artisan]] |
 
 | AC  | Initiative | Speed | Size   |
 | --- | ---------- | ----- | ------ |

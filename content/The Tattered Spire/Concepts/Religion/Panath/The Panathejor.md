@@ -1,4 +1,9 @@
-The Pantheo gods are widely worshiped by most of civilization and their clerics and paladins are well-respected in any town or village.
+---
+aliases:
+  - Panathejor
+tags:
+  - religion
+---
 ## [[Alavandor]]
 Celebrated on [[Alvdae]]. Alavandor is known as the Conquerer of Skies, and a deity of dusk, strength, war, fall, growth, wealth, and age.
 
@@ -18,7 +23,7 @@ Worshipers of Vodekael [[Vordekaes|(Vordekaes)]] seek to build. Encouraging the 
 ## [[Tokon]]
 Celebrated on [[Tondae]]. Tokon is known as Breaker of Chains, a deity of perseverance, cruelty, shadow, secrets, and torment.
 
-Worshipers of Tokon seek to bind. They believe suffering is sacred, a crucible by which truth and strength are revealed to those who persevere. Where [[Netandites]] guide souls onward, T[[okonites]] delay the passage in the hope that one might find their strength and continue to live and eventually thrive. 
+Worshipers of Tokon seek to bind. They believe suffering is sacred, a crucible by which truth and strength are revealed to those who persevere. Where [[Netandites]] guide souls onward, [[Tokonites]] delay the passage in the hope that one might find their strength and continue to live and eventually thrive. 
 ## [[Eiselken]]
 Celebrated on [[Eafdae]]. Eiselken is known as the Rootfather, a deity of silence, memory, stillness, decay, winter, and the earth.
 

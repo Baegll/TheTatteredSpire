@@ -1,1 +1,7 @@
-The [[Netandites]] intepretation of [[The Obsidian Eclipse 66 (SAS)]].
+---
+tags:
+  - religion
+  - time
+---
+
+The [[Netandites]] intepretation of [[66 The Obsidian Eclipse (SAS)]].

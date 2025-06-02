@@ -1,1 +1,7 @@
-The [[Tokonites]] intepretation of [[The Obsidian Eclipse 66 (SAS)]].
+---
+tags:
+  - religion
+  - time
+---
+
+The [[Tokonites]] intepretation of [[66 The Obsidian Eclipse (SAS)]].

@@ -2,6 +2,8 @@
 aliases:
   - Crested
   - Crested Families
+tags:
+  - diveneu
 ---
 
 [[The Crested Families]] are a collection the most powerful dwarven families who dominate [[Diveneu]]. While [[The Palestone Bloodline]] rules the city, power secured by their control over the rich [[Palestone]] deposits in their mountains. These Crested Families frequently get into fights, despite their necessity of eachother as they grow ever-more specialized. The core system is tiered, which tier you are determines the votes your family has at [[The Diveneu Council]]. The Bloodline being the primary family, followed by the Clans, and then notable Families. Smaller families vying for power are known as [[The Crestative Families]], nobles in their own right, but not seated in positions of real power. There is only one non-dwarven family which is a Crested Family, while there are many [[The Crestative Families|Crestative Families]] which are non-dwarven.

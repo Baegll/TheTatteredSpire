@@ -1,3 +1,9 @@
+---
+tags:
+  - aurelin
+  - diveneu
+---
+
 The largest mountain range in [[Naouk]]. Located in the north of [[Aurelin]], its many peaks protect [[Diveneu]] from attack
 
 ## [[Mt. Veridian]]
