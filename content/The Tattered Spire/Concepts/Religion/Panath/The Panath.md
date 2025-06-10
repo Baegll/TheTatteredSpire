@@ -3,6 +3,7 @@ aliases:
   - Panath
 tags:
   - religion
+  - lore
 ---
 The religious landscape of [[Naouk]] is varied. However, there is a widely accept difference between major and minor gods. Major gods, considered [[The Panathejor|Panthejor]]; differ greatly from [[The Panathedim]] minor.
 # [[The Panathejor]]

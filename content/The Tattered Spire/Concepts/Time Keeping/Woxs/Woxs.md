@@ -3,6 +3,7 @@ aliases:
   - Wox
 tags:
   - time
+  - lore
 ---
 
 Wh-oh-xcks

@@ -1,9 +1,9 @@
 ---
 title: Player Character Info Template
 tags:
-  - PlayerCharacter
   - example
   - mechanics
+  - pcs
 ---
 
 

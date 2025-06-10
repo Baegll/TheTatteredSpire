@@ -1,6 +1,7 @@
 ---
 tags:
   - time
+  - lore
 ---
 
 KALE-me-ri

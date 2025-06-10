@@ -3,6 +3,7 @@ aliases:
   - Panathejor
 tags:
   - religion
+  - lore
 ---
 ## [[Alavandor]]
 Celebrated on [[Alvdae]]. Alavandor is known as the Conquerer of Skies, and a deity of dusk, strength, war, fall, growth, wealth, and age.

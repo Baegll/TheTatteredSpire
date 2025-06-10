@@ -2,6 +2,7 @@
 tags:
   - time
   - religion
+  - lore
 ---
 
 This [[Woxs|Wox]] is intended to regain composure and return to the self.

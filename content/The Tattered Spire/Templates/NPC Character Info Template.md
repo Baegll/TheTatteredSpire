@@ -5,4 +5,12 @@ tags:
   - npc
 ---
 
-TODO: Fill this out with a template that has all the fields important for an NPC to have.
+| Character Name | Race | Height | Weight | Age | Pronouns |
+| -------------- | ---- | ------ | ------ | --- | -------- |
+|                |      |        |        |     |          |
+## Description
+<!paragraph>
+### Personality
+### History / Background
+### Family
+### Factions

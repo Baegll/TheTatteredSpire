@@ -3,6 +3,7 @@ aliases:
   - Dae
 tags:
   - time
+  - lore
 ---
 
 Dae-es

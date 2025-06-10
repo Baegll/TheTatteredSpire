@@ -1,9 +1,9 @@
 ---
 title: Aurelia au Lunaria
 tags:
-  - PlayerCharacter
   - example
   - mechanics
+  - pcs
 ---
 ---
 

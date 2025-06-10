@@ -2,6 +2,7 @@
 tags:
   - time
   - diveneu
+  - lore
 aliases:
   - 44 (SAS)
 ---
@@ -13,6 +14,6 @@ The initial catalyst came from escalating raids by [[The Golzak Tribe]], who cla
 
 By the time the Bismuth Clan had banded with the Palestones, [[Thraegar Palestone]] organized a marraige of convenience between his first son [[Vaddokk Palestone]] and [[Hethos Golzak]] cementing peace in the valley for [[Diveneu]].
 
-The true crux of the town came with [[Naoplem Sterlay]] and the ancient silver [[Dragon]] [[Regannia ag Rokreig]]. They arrived in the settlement, and created [[The Tattered Spire]] in the center of what would become [[Diveneu]]. Initially, the palestones did not respect the magics that created this tower, or respect its uses that Naoplem abused after its creation. Over time, as secrets passed into family knowledge, they would restrict its access to only the most respected of individuals. The founding of this tower served not only as a major landmark, but as a critical centerpoint for many [[Ley-Lines]], attracted the attention of the gods. [[The Panathejor]] took special interest in this city. Inspiring the now allied Golzak Tribe to create the first [[Solam Bells]].
+The true crux of the town came with [[Naoplem Sterlay]] and the ancient silver [[Dragon]] [[Regannia Ag Rokreig]]. They arrived in the settlement, and created [[The Tattered Spire]] in the center of what would become [[Diveneu]]. Initially, the palestones did not respect the magics that created this tower, or respect its uses that Naoplem abused after its creation. Over time, as secrets passed into family knowledge, they would restrict its access to only the most respected of individuals. The founding of this tower served not only as a major landmark, but as a critical centerpoint for many [[Ley-Lines]], attracted the attention of the gods. [[The Panathejor]] took special interest in this city. Inspiring the now allied Golzak Tribe to create the first [[Solam Bells]].
 
 By the end of Yehr 44, what had been a struggling village of outcast dwarves had transformed into a fortified town with multiple allied populations. A magnificent central spire, and the beginnings of a political structure that would eventually complicate into [[The Crested Families]] and [[The Diveneu Council]]

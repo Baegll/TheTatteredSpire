@@ -2,6 +2,7 @@
 tags:
   - aurelin
   - diveneu
+  - lore
 ---
 
 The City of New Gods. Revered by mortals as a nexus of possibility, [[Diveneu]] is known from the rich history of characters gaining power and influence for those brave enough to try and earn it. [[The Diven Mountain Range]] that [[Diveneu]] rests in is said to be where the gods hide behind to peak into the affairs of mortals. To enter the gates of is to tempt fate and to follow the paths of many heroes before your journey.

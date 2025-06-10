@@ -1,0 +1,4 @@
+---
+aliases:
+  - Solam Bell
+---

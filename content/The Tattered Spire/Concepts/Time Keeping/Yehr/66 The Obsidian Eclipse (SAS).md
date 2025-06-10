@@ -3,6 +3,7 @@ tags:
   - time
   - religion
   - diveneu
+  - lore
 ---
 A terrifying [[Yehr]] where the sun was slowly eclipsed by [[Neton]]. The total eclipse happened during the [[Kamerad]] of [[Halionde]]. For six full [[Daes]], the moon hung eerily still in front of the sun casting the world into an unnatural twilight that pulsed with shadowy energy. The eclipse was no ordinary celestial event, [[Neton]] appeared to have turned obsidian black, its surface rippling like liquid stone, giving the eclipse its ominous name.
 

@@ -3,6 +3,7 @@ aliases:
   - Panathedim
 tags:
   - religion
+  - lore
 ---
 This is a non-exhaustive list of the minor [[Panath]] gods.
 ### [[Azure]]
@@ -55,6 +56,8 @@ This is a non-exhaustive list of the minor [[Panath]] gods.
 **The Reflection** - God of mirrors, self-knowledge, and confronting one's true nature. Shadowmere forces people to see themselves clearly, both their virtues and flaws.
 ### [[Thornwick]]
 **The Wildgrowth** - God of untamed nature, overgrowth, and nature reclaiming civilization. Thornwick represents the constant pressure of the wild to retake cultivated lands.
+### [[Vivaldo H Ossini]]
+**The Wyremlorde** - God of [[The Dragon]], their creator, a source of their magic. In addition a deity of chaos, often causing trouble for the mortal world with new magical creatures.
 ### [[Crysthia]]
 **The Gemheart** - Goddess of precious stones, underground treasures, and the earth's hidden wealth. Miners and gem-cutters pray for successful excavations, and safe returns home from the depths.
 ### [[Nithmill]]
