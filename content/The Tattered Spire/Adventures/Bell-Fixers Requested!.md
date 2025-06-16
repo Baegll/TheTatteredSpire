@@ -1,15 +1,16 @@
 ---
 title: Bell-Fixers Requested!
 tags:
-  - example
   - mechanics
   - lore
 ---
 # Repair [[Solam Bells|Solam Bell]] in [[Greston Outpost]]
 ## Synopsis
-The bell out in [[Greston Outpost]] needs a replacement. Just a quick day trip down to [[Mt. Carigman]]. We ([[Vordekaes]]) will give you a cart to take this brand new bell to the outpost. Come back by tomorrow evening with the new bell for your reward.
+The bell out in [[Greston Outpost]] needs a replacement. Just a quick day trip down to [[Mt. Carigman]]. We ([[Vordekaes]]) will give you a cart to take this brand new bell to the outpost. Come back by tomorrow evening with the old bell for your reward.
 ## Themes
 #religion #time #diveneu 
+### DMs
+#baegll
 ### Meta
 ```
 Players: 0/3

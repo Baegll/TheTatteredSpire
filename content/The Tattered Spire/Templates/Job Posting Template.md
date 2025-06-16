@@ -9,7 +9,8 @@ tags:
 ## Synopsis
 
 ## Themes
-
+### DMs
+### Requirements
 ### Meta
 ```
 Players:

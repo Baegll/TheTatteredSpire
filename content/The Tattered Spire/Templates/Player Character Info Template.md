@@ -19,6 +19,10 @@ tags:
 | ------ | --- | ------- | ---------- | ------------ |
 |        |     |         |            |              |
 
+| Downtime | Platinum | Gold | Silver | Copper |
+| -------- | -------- | ---- | ------ | ------ |
+|          |          |      |        |        |
+
 ## DESCRIPTION
 
 ### Traits
@@ -26,6 +30,14 @@ tags:
 ### Bonds
 ### Flaws & Struggles
 ### Goals & Motivations
+
+
+## Factions
+#### Allied
+#### Friendly
+#### Disliked
+#### Hated
+
 
 ## Stats
 
