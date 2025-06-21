@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cleric subclass
 tags:
   - mechanics
   - MOC
