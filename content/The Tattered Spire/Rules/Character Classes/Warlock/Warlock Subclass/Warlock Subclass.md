@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Warlock subclass
 tags:
   - mechanics
   - MOC

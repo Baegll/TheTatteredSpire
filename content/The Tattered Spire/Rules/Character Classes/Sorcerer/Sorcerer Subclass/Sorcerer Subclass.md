@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sorcerer subclass
 tags:
   - mechanics
   - MOC

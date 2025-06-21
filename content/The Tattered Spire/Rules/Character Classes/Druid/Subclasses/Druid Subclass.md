@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Druid subclass
 tags:
   - mechanics
   - MOC

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Monk subclass
 tags:
   - mechanics
   - MOC
