@@ -4,7 +4,7 @@ aliases:
 tags:
   - mechanics
   - pcs
-draft: true
+draft: false
 ---
 
 | Player Name | Class  | Lvl | Experience | Race    | Height | Gender    | Background |
