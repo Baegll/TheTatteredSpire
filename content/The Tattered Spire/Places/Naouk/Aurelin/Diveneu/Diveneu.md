@@ -9,4 +9,6 @@ The City of New Gods. Revered by mortals as a nexus of possibility, [[Diveneu]] 
 
 Diveneu like most cities, worships [[The Panathejor]]. With [[Solam Bells]] made of Iron sounding off in the morning, a different tone for each [[Daes|Dae]]. 
 
-The city is segmented into different districts depending on which mountain you tread on, with a central landmark of [[The Tattered Spire]]. Other landmarks in the city includes [[The Copper Pocket]], [[The Palemuth Bridge]], [[The Crested Monument]], [[The Crestative Square]], [[The Chapter District]] and [[The Divensteele]]
+The city is segmented into different districts depending on which mountain you tread on, with a central landmark of [[The Tattered Spire]]. Other landmarks in the city includes [[The Copper Pocket]], [[The Palemuth Bridge]], [[The Crested Monument]], [[The Crestative Square]], [[The Chapter District]] and [[The Divensteele Forge]]
+
+![[Diveneu Geography.png]]

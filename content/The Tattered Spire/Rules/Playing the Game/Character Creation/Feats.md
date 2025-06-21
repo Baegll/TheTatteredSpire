@@ -1,0 +1,92 @@
+---
+tags:
+  - mechanics
+---
+## Feat Descriptions
+The feats that follow are organized by category— Origin, General, Fighting Style, or Epic Boon—and alphabetized in each category.
+### Parts of a Feat
+The description of a feat contains the following parts, which are presented after the feat's name.
+
+**Category.** A feat is a member of a category, which is noted in the feat. If you're instructed to choose a feat from a specific category, such as the Origin category, that category must appear under the feat's name. If you're instructed to choose a feat and no category is specified, you can choose from any category.
+**Prerequisite.** To take a feat, you must meet any prerequisite in its description unless a feature allows you to take the feat without the prerequisite. If a prerequisite includes a class, you must have at least 1 level in that class to take the feat.
+***Benefit.** The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.
+**Repeatable.** A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
+
+### Origin Feat
+- [[Alert]]
+- [[Crafter]]
+- [[Healer]]
+- [[Lucky]]
+- [[Magic Initiate]]
+- [[Musician]]
+- [[Savage Attacker]]
+- [[Skilled]]
+- [[Tavern Brawler]]
+- [[Tough]]
+### General Feat
+- [[Ability Score Improvement]]
+- [[Actor]]
+- [[Athlete]]
+- [[Charger]]
+- [[Chef]]
+- [[Crossbow Expert]]
+- [[Crusher]]
+- [[Defensive Duelist]]
+- [[Durable]]
+- [[Elemental Adept]]
+- [[Fey-Touched]]
+- [[Grappler]]
+- [[Great Weapon Master]]
+- [[Heavily Armored]]
+- [[Heavy Armor Master]]
+- [[Inspiring Leader]]
+- [[Keen Mind]]
+- [[Lightly Armored]]
+- [[Mage Slayer]]
+- [[Martial Weapon Training]]
+- [[Medium Armor Master]]
+- [[Moderately Armored]]
+- [[Mounted Combatant]]
+- [[Observant]]
+- [[Piercer]]
+- [[Poisoner]]
+- [[Polearm Master]]
+- [[Resilient]]
+- [[Ritual Caster]]
+- [[Sentinel]]
+- [[Shadow-Touched]]
+- [[Sharpshooter]]
+- [[Shield Master]]
+- [[Skill Expert]]
+- [[Skulker]]
+- [[Slasher]]
+- [[Speedy]]
+- [[Spell Sniper]]
+- [[Telekinetic]]
+- [[Telepathic]]
+- [[War Caster]]
+- [[Weapon Master]]
+### Fighting Style Feat
+- [[Archery]]
+- [[Blind Fighting]]
+- [[Defense]]
+- [[Dueling]]
+- [[Great Weapon Fighting]]
+- [[Interception]]
+- [[Protection]]
+- [[Thrown Weapon Fighting]]
+- [[Two-Weapon Fighting]]
+- [[Unarmed Fighting]]
+### Epic Boon
+- [[Boon of Combat Prowess]]
+- [[Boon of Dimensional Travel]]
+- [[Boon of Energy Resistance]]
+- [[Boon of Fate]]
+- [[Boon of Fortitude]]
+- [[Boon of Irresistible Offense]]
+- [[Boon of Recovery]]
+- [[Boon of Skill]]
+- [[Boon of Speed]]
+- [[Boon of Spell Recall]]
+- [[Boon of the Night Spirit]]
+- [[Boon of Truesight]]
