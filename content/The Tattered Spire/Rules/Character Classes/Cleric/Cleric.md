@@ -23,28 +23,28 @@ tags:
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 #### Table: Cleric Class Features:
 
-| Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|-----------------------------|------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Divine Order  | —                | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Channel Divinity            | 2                | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Cleric Subclass             | 2                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement   | 2                | 4        | 7               | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Sear Undead                 | 2                | 4        | 9               | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature            | 3                | 4        | 10              | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | Blessed Strikes             | 3                | 4        | 11              | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement   | 3                | 4        | 12              | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | —                           | 3                | 4        | 14              | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Divine Intervention         | 3                | 5        | 15              | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                           | 3                | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement   | 3                | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                           | 3                | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Improved Blessed Strikes    | 3                | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                           | 3                | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement   | 3                | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | Subclass feature            | 3                | 5        | 19              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | —                           | 4                | 5        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                   | 4                | 5        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Greater Divine Intervention | 4                | 5        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| ----- | ----------------- | --------------------------- | ---------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Spellcasting, Divine Order  | —                | 3        | 4               | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +2                | Channel Divinity            | 2                | 3        | 5               | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +2                | Cleric Subclass             | 2                | 3        | 6               | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement   | 2                | 4        | 7               | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +3                | Sear Undead                 | 2                | 4        | 9               | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +3                | Subclass feature            | 3                | 4        | 10              | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +3                | Blessed Strikes             | 3                | 4        | 11              | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement   | 3                | 4        | 12              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +4                | —                           | 3                | 4        | 14              | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +4                | Divine Intervention         | 3                | 5        | 15              | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +4                | —                           | 3                | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +4                | Ability Score Improvement   | 3                | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +5                | —                           | 3                | 5        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +5                | Improved Blessed Strikes    | 3                | 5        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +5                | —                           | 3                | 5        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +5                | Ability Score Improvement   | 3                | 5        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17    | +6                | Subclass feature            | 3                | 5        | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | —                           | 4                | 5        | 20              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Epic Boon                   | 4                | 5        | 21              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Greater Divine Intervention | 4                | 5        | 22              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 #### Level 1: Spellcasting
 
@@ -74,7 +74,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 **Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
 
-**Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your [[The Six Abilities|Intelligence]] ([[Proficiency#Skill Proficiencies|Arcana]] or [[Proficiency#Skill Proficiencies|Religion]]) checks. The bonus equals your [[The Six Abilities|Wisdom]] modifier (minimum of +1).
+**Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your [[The Six Abilities|Intelligence]] ([[Proficiency#Skill Proficiencies|Arcana]], [[Proficiency#Skill Proficiencies|History]], [[Proficiency#Skill Proficiencies|Investigation]], [[Proficiency#Skill Proficiencies|Nature]], and [[Proficiency#Skill Proficiencies|Religion]]) checks. The bonus equals your [[The Six Abilities|Wisdom]] modifier (minimum of +1).
 #### Level 2: Channel Divinity
 You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 

@@ -89,7 +89,7 @@ Once you use this feature, you can't do so again until you finish a [[Long Rest]
 #### Level 2: Scholar
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [[Proficiency#Skill Proficiencies|Arcana]], [[Proficiency#Skill Proficiencies|History]], [[Proficiency#Skill Proficiencies|Investigation]], [[Proficiency#Skill Proficiencies|Medicine]], [[Proficiency#Skill Proficiencies|Nature]], or [[Proficiency#Skill Proficiencies|Religion]]. You have [[Expertise]] in the chosen skill.
 #### Level 3: Wizard Subclass
-You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
+You gain a [[Wizard subclass]] of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 #### Level 4: Ability Score Improvement
 You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 #### Level 5: Memorize Spell

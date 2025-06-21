@@ -11,9 +11,9 @@ tags:
 | ----------- | ----- | --- | ---------- | ---- | ------ | ------ | ---------- |
 |             |       |     |            |      |        |        |            |
 
-| AC  | Initiative | Speed | Size |
-| --- | ---------- | ----- | ---- |
-|     |            |       |      |
+| AC  | Initiative | Speed | Size | Alignment |
+| --- | ---------- | ----- | ---- | --------- |
+|     |            |       |      |           |
 
 | Max HP | HP  | Hit die | Total # HD | Current # HD |
 | ------ | --- | ------- | ---------- | ------------ |
@@ -104,17 +104,17 @@ tags:
 |           |         |           |         |           |         |           |         |
 
 ## Spell Slots
-| Level | X   | X       | X   | X   |
-| ----- | --- | ------- | --- | --- |
-| 1     |     |         |     |     |
-| 2     | N/A | N/A     | N/A | N/A |
-| 3     | N/A | N/A     | N/A | N/A |
-| 4     | N/A | N/A     | N/A | N/A |
-| 5     | N/A | N/A     | N/A | N/A |
-| 6     | N/A | N/A<br> | N/A | N/A |
-| 7     | N/A | N/A     | N/A | N/A |
-| 8     | N/A | N/A     | N/A | N/A |
-| 9     | N/A | N/A     | N/A | N/A |
+| Level | X   | X   | X   | X   |
+| ----- | --- | --- | --- | --- |
+| 1     |     |     |     |     |
+| 2     |     |     |     |     |
+| 3     |     |     |     |     |
+| 4     |     |     |     |     |
+| 5     |     |     |     |     |
+| 6     |     |     |     |     |
+| 7     |     |     |     |     |
+| 8     |     |     |     |     |
+| 9     |     |     |     |     |
 ## Spell Save DC
 ## Spell Attack Bonus
 ## ADDITIONAL CHARACTER NOTES
