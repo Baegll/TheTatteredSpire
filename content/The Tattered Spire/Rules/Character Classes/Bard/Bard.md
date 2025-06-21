@@ -90,7 +90,7 @@ For example, if you make a [[The Six Abilities|Strength]] ([[Proficiency#Skill P
 #### Level 3: Bard Subclass
 You gain a [[Bard subclass]] of your choice. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 #### Level 5: Font of Inspiration
 You now regain all your expended uses of [[Bard#Level 1 Bardic Inspiration|Bardic Inspiration]] when you finish a [[Short Rest|Short]] or [[Long Rest]].
 
@@ -102,7 +102,7 @@ You've learned secrets from various magical traditions. Whenever you reach a Bar
 #### Level 18: Superior Inspiration
 When you roll [[Combat#Initiative|Initiative]], you regain expended uses of [[Bard#Level 1 Bardic Inspiration|Bardic Inspiration]] until you have two if you have fewer than that.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Words of Creation
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *[[Power Word Heal]]* and *[[Power Word Kill]]*  spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
 ### Bard Spell List

@@ -44,7 +44,7 @@ Choose your character's background, and write it on your character sheet. You ca
 
 The background you choose influences step 3, when you determine your character's ability scores. 
 
-**Record Your Feat.** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in "[[Rules/Playing the Game/Character Creation/Feats]]." Write the feat on your character sheet.
+**Record Your Feat.** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in "[[Feats]]." Write the feat on your character sheet.
 
 **Note Proficiencies.** Your background gives proficiency in two skills and with one tool. Record this information on your character sheet.
 

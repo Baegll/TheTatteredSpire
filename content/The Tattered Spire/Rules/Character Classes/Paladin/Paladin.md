@@ -72,7 +72,7 @@ Your training with weapons allows you to use the [[mastery properties]] of two k
 
 Whenever you finish a [[Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[mastery properties]] of [[Halberd|Halberds]] and [[Flail|Flails]].
 #### Level 2: Fighting Style
-You gain a [[Fighting Style]] feat of your choice (see "[[Rules/Playing the Game/Character Creation/Feats]]" for feats). Instead of choosing one of those feats, you can choose the option below.
+You gain a [[Fighting Style]] feat of your choice (see "[[Feats]]" for feats). Instead of choosing one of those feats, you can choose the option below.
 
 **Blessed Warrior.** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). The chosen cantrips count as Paladin spells for you, and [[The Six Abilities|Charisma]] is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 #### Level 2: Paladin's Smite
@@ -94,7 +94,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 #### Level 3: Paladin Subclass
 You gain a [[Paladin subclass]] of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 #### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the [[Actions#Table Actions|Attack action]] on your turn.
 #### Level 5: Faithful Steed
@@ -118,7 +118,7 @@ When you use [[#Level 1 Lay On Hands|Lay On Hands]] on a creature, you can also 
 #### Level 18: Aura Expansion
 Your [[#Level 6 Aura of Protection|Aura of Protection]] is now a 30-foot Emanation.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 ### Paladin Spell List
 This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 #### Table: Level 1 Paladin Spells

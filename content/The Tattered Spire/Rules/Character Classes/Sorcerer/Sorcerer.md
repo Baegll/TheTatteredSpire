@@ -104,7 +104,7 @@ Whenever you gain a Sorcerer level, you can replace one of your [[#Metamagic Opt
 #### Level 3: Sorcerer Subclass
 You gain a [[Sorcerer subclass]] of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 #### Level 5: Sorcerous Restoration
 When you finish a [[Short Rest]], you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 #### Level 7: Sorcery Incarnate
@@ -112,7 +112,7 @@ If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcer
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your [[#Metamagic Options]] on each spell you cast.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Arcane Apotheosis
 While your Innate Sorcery feature is active, you can use one [[#Metamagic Options|Metamagic option]] on each of your turns without spending Sorcery Points on it.
 ### Metamagic Options

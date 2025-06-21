@@ -82,7 +82,7 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 #### Level 3: Warlock Subclass
 You gain a [[Warlock subclass]] of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 #### Level 9: Contact Patron
 In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the *[[Contact Other Plane]]* spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
@@ -96,7 +96,7 @@ As shown in the Warlock Features table, you gain another Warlock spell of your c
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Eldritch Master
 When you use your [[#Level 2 Magical Cunning|Magical Cunning]] feature, you regain all your expended Pact Magic spell slots.
 ### Eldritch Invocation Options
@@ -173,7 +173,7 @@ When you cast *[[Find Familiar]]*, you infuse the summoned familiar with a measu
 #### **Lessons of the First Ones**
 *Prerequisite: Level 2+ Warlock*
 
-You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Origin feat]] of your choice (see "[[Rules/Playing the Game/Character Creation/Feats]]").
+You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Origin feat]] of your choice (see "[[Feats]]").
 
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different [[Origin feat]].
 #### Lifedrinker

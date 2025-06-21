@@ -82,7 +82,7 @@ You gain [[Proficiency|proficiency]] in another skill of your choice from the sk
 
 In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [[Proficiency#Skill Proficiencies|Acrobatics]], [[Proficiency#Skill Proficiencies|Intimidation]], [[Proficiency#Skill Proficiencies|Perception]], [[Proficiency#Skill Proficiencies|Stealth]], or [[Proficiency#Skill Proficiencies|Survival]]. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 #### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the [[Actions#Table Actions|Attack action]] on your turn.
 #### Level 5: Fast Movement
@@ -114,6 +114,6 @@ The extra damage of your [[#Level 9 Brutal Strike|Brutal Strike]] increases to 2
 #### Level 18: Indomitable Might
 If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Primal Champion
 You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.

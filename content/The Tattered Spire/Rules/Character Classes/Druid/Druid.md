@@ -114,7 +114,7 @@ When you cast the spell in this way, the familiar is [[Fey]] and disappears when
 #### Level 3: Druid Subclass
 You gain a [[Druid subclass]] of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 #### Level 5: Wild Resurgence
 Once on each of your turns, if you have no uses of [[#Level 2 Wild Shape|Wild Shape]] left, you can give yourself one use by expending a spell slot (no action required).
 

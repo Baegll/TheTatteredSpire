@@ -74,4 +74,4 @@ Each travel pace has a game effect, as defined below.
 **Normal.** Traveling at a Normal pace imposes [[D20 Tests#Advantage/Disadvantage|Disadvantage]] on [[The Six Abilities|Dexterity]] ([[Proficiency#Skill Proficiencies|Stealth]]) checks.
 **Slow.** Traveling at a Slow pace grants [[D20 Tests#Advantage/Disadvantage|Advantage]] on [[The Six Abilities|Wisdom]] ([[Proficiency#Skill Proficiencies|Perception]] or [[Proficiency#Skill Proficiencies|Survival]]) checks.
 #### Vehicles
-Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the [[speed]] of the vessel, and they don’t choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day. “[[Equipment]]” includes vehicles for sale.
+Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the [[Speed]] of the vessel, and they don’t choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day. “[[Equipment]]” includes vehicles for sale.

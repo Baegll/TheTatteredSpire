@@ -70,7 +70,7 @@ You gain a [[Rogue subclass]] of your choice. A subclass is a specialization tha
 As a [[Actions#Bonus Actions|Bonus Action]], you give yourself [[D20 Tests#Advantage/Disadvantage|Advantage]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 #### Level 4: Ability Score Improvement
 
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 12, and 16.
 #### Level 5: Cunning Strike
 You've developed cunning ways to use your [[#Level 1 Sneak Attack|Sneak Attack]]. When you deal [[#Level 1 Sneak Attack|Sneak Attack]] damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the [[Poison]] effect, remove 1d6 from the Sneak Attack's damage before rolling.
 
@@ -104,7 +104,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 #### Level 18: Elusive
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[D20 Tests#Advantage/Disadvantage|Advantage]] against you unless you have the [[Incapacitated]] condition.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Stroke of Luck
 You have a marvelous knack for succeeding when you need to. If you fail a [[D20 Tests|D20 Test]], you can turn the roll into a 20.
 

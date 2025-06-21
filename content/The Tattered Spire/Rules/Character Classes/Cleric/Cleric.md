@@ -90,7 +90,7 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 #### Level 3: Cleric Subclass
 You gain a [[Cleric subclass]] of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 #### Level 5: Sear Undead
 Whenever you use [[#Level 2 Channel Divinity|Turn Undead]], you can roll a number of d8s equal to your [[The Six Abilities|Wisdom]] modifier (minimum of 1d8) and add the rolls together. Each [[Undead]] that fails its saving throw against that use of [[#Level 2 Channel Divinity|Turn Undead]] takes [[Radiant]] damage equal to the roll's total. This damage doesn't end the turn effect.
 #### Level 7: Blessed Strikes
@@ -108,7 +108,7 @@ The option you chose for [[#Level 7 Blessed Strikes|Blessed Strikes]] grows more
 
 **Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Damage and Healing#Temporary Hit Points|Temporary Hit Points]] equal to twice your [[The Six Abilities|Wisdom]] modifier.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Greater Divine Intervention
 You can call on even more powerful divine intervention. When you use your [[#Level 10 Divine Intervention|Divine Intervention]] feature, you can choose *[[Wish]]* when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 [[Long Rest|Long Rests]].
 ### Cleric Spell List

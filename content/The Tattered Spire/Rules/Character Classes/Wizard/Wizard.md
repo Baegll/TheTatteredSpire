@@ -91,7 +91,7 @@ While studying magic, you also specialized in another field of study. Choose one
 #### Level 3: Wizard Subclass
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 #### Level 5: Memorize Spell
 Whenever you finish a [[Short Rest]], you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 #### Level 18: Spell Mastery
@@ -99,7 +99,7 @@ You have achieved such mastery over certain spells that you can cast them at wil
 
 Whenever you finish a [[Long Rest]], you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Signature Spells
 Choose two [[#Table Level 3 Wizard Spells|level 3]] spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at [[#Table Level 3 Wizard Spells|level 3]] without expending a spell slot. When you do so, you can't cast them in this way again until you finish a [[Short Rest|Short]] or [[Long Rest]]. To cast either spell at a higher level, you must expend a spell slot.
 #### Wizard Spell List

@@ -2,26 +2,20 @@
 tags:
   - mechanics
 ---
-*Soothe the Hurts of the World*
+*Bring light to the darkness*
 
-The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.
+The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities’ discerning vision, charged with chasing away lies and burning away darkness.
 
-Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.
-#### Level 3: Disciple of Life
-When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
-#### Level 3: Life Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
-#### Table: Life Domain Spells
+The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce every shadow and deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul’s improvement. Religious orders focused on combating the Undead also draw on the power of this domain.
+### Level 3: Light Domain Spells
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared.
+#### Table: Light Domain Spells
 
-| Cleric Level | Prepared Spells                                             |
-| ------------ | ----------------------------------------------------------- |
-| 3            | [[Aid]], [[Bless]], [[Cure Wounds]], [[Lesser Restoration]] |
-| 5            | [[Mass Healing Word]], [[Revivify]]                         |
-| 7            | [[Aura of Life]], [[Death Ward]]                            |
-| 9            | [[Greater Restoration]], [[Mass Cure Wounds]]               |
-#### Level 3: Preserve Life
-As a [[Actions#Table Actions|Magic action]], you present your [[Holy Symbol]] and expend a use of your [[Cleric#Level 2 Channel Divinity|Channel Divinity]] to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose [[Bloodied]] creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
-#### Level 6: Blessed Healer
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot's level.
-#### Level 17: Supreme Healing
-When you would normally roll one or more dice to restore Hit Points to a creature with a spell or [[Cleric#Level 2 Channel Divinity|Channel Divinity]], don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+| Cleric Level | Prepared Spells                                                              |
+| ------------ | ---------------------------------------------------------------------------- |
+| 3            | [[Burning Hands]], [[Faerie Fire]], [[Scorchiong Ray]], [[See Invisibility]] |
+| 5            | [[Daylight]], [[Fireball]]                                                   |
+| 7            | [[Arcane Eye]], [[Wall of Fire]]                                             |
+| 9            | [[Flame Strike]], [[Scrying]]                                                |
+### Level 3: Radiance of the Dawn
+### Level 3: Warding Flare

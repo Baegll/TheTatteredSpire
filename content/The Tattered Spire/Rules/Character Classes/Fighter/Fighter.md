@@ -46,7 +46,7 @@ As a Fighter, you gain the following class features when you reach the specified
 | 19    | +6                   | Epic Boon                                         | 4              | 6                 |
 | 20    | +6                   | Three Extra Attacks                               | 4              | 6                 |
 #### Level 1: Fighting Style
-You have honed your martial prowess and gain a [[Fighting Style]] feat of your choice (see "[[Rules/Playing the Game/Character Creation/Feats]]").
+You have honed your martial prowess and gain a [[Fighting Style]] feat of your choice (see "[[Feats]]").
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different [[Fighting Style]] feat.
 #### Level 1: Second Wind
@@ -68,7 +68,7 @@ You have a mind for tactics on and off the battlefield. When you fail an ability
 #### Level 3: Fighter Subclass
 You gain a [[Fighter subclass]] of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 #### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the [[Actions#Table Actions|Attack action]] on your turn.
 #### Level 5: Tactical Shift
@@ -84,6 +84,6 @@ You can attack three times instead of once whenever you take the [[Actions#Table
 #### Level 13: Studied Attacks
 You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[D20 Tests#Advantage/Disadvantage|Advantage]] on your next attack roll against that creature before the end of your next turn.
 ### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Three Extra Attacks
 You can attack four times instead of once whenever you take the [[Actions#Table Actions|Attack action]] on your turn.

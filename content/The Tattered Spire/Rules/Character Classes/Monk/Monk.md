@@ -86,7 +86,7 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 #### Level 3: Monk Subclass
 You gain a [[Monk subclass]] of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 #### Level 4: Slow Fall
 You can take a [[Actions#Reactions|Reaction]] when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 #### Level 5: Extra Attack
@@ -124,6 +124,6 @@ When you roll [[Combat#Initiative|Initiative]] and don't use [[#Level 2 Uncanny 
 #### Level 18: Superior Defense
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Damage and Healing#Resistance and Vulnerability|Resistance]] to all damage except [[Force]] damage.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Body and Mind
 You have developed your body and mind to new heights. Your [[The Six Abilities|Dexterity]] and [[The Six Abilities|Wisdom]] scores increase by 4, to a maximum of 25.

@@ -78,13 +78,13 @@ Thanks to your travels, you gain the following benefits.
 
 **Languages.** You know two languages of your choice from the language tables in "[[Character Creation]]."
 #### Level 2: Fighting Style
-You gain a [[Fighting Style]] feat of your choice (see "[[Rules/Playing the Game/Character Creation/Feats]]"). Instead of choosing one of those feats, you can choose the option below.
+You gain a [[Fighting Style]] feat of your choice (see "[[Feats]]"). Instead of choosing one of those feats, you can choose the option below.
 
 **Druidic Warrior.** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). The chosen cantrips count as Ranger spells for you, and [[The Six Abilities|Wisdom]] is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 #### Level 3: Ranger Subclass
 You gain a [[Ranger subclass]] of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 #### Level 4: Ability Score Improvement
-You gain the [[Ability Score Improvement]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 #### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the [[Actions#Table Actions|Attack action]] on your turn.
 #### Level 6: Roving
@@ -108,7 +108,7 @@ You have [[D20 Tests#Advantage/Disadvantage|Advantage]] on attack rolls against 
 #### Level 18: Feral Senses
 Your connection to the forces of nature grants you [[Blindsight]] with a range of 30 feet.
 #### Level 19: Epic Boon
-You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Rules/Playing the Game/Character Creation/Feats]]") or another feat of your choice for which you qualify. 
+You gain an [[Feats#Epic Boon|Epic Boon]] feat (see "[[Feats]]") or another feat of your choice for which you qualify. 
 #### Level 20: Foe Slayer
 
 The damage die of your *[[Hunter's Mark]]* is a d10 rather than a d6.
