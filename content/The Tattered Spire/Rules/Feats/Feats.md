@@ -83,6 +83,7 @@ The description of a feat contains the following parts, which are presented afte
 - [[Boon of Energy Resistance]]
 - [[Boon of Fate]]
 - [[Boon of Fortitude]]
+- [[Boon of High Magic]]
 - [[Boon of Irresistible Offense]]
 - [[Boon of Recovery]]
 - [[Boon of Skill]]
@@ -90,3 +91,4 @@ The description of a feat contains the following parts, which are presented afte
 - [[Boon of Spell Recall]]
 - [[Boon of the Night Spirit]]
 - [[Boon of Truesight]]
+- [[Boon of Undetectability]]
