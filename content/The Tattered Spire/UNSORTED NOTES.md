@@ -17,3 +17,6 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 **Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
 
 Priests pack costs 19gp
+
+- [ ] update rules glossary
+

@@ -5,9 +5,9 @@ tags:
   - pcs
 ---
 
-| Player Name | Class   | Lvl | Experience | Race       | Height | Gender | Background |
-| ----------- | ------- | --- | ---------- | ---------- | ------ | ------ | ---------- |
-| Yancey      | Fighter | 3   | 900        | Dragonborn | 6'9"   | Male   | Soldier    |
+| Player Name | Class   | Lvl | Experience | Race           | Height | Gender | Background |
+| ----------- | ------- | --- | ---------- | -------------- | ------ | ------ | ---------- |
+| Yancey      | Fighter | 3   | 900        | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
 
 | AC  | Initiative | Speed | Size   | Alignment    |
 | --- | ---------- | ----- | ------ | ------------ |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 54   | 0      | 0      |
+| 0        | 0        | 4    | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -82,6 +82,8 @@ tags:
 - Flail
 - 8 Javelins
 - Dungeoneer's Pack
+- Heavy Crossbow
+- 20x bolts
 ## Proficiencies / Skills
 #### Language
 - Common
