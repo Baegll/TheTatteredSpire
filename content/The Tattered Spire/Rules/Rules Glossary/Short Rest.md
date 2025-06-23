@@ -1,6 +1,7 @@
 ---
 aliases:
   - Short Rests
+  - Short
 tags:
   - mechanics
 ---
