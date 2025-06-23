@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-| Player Name | Class  | Lvl | Experience | Race    | Height | Gender    | Background |
+| Player Name | Class  | Lvl | Experience | Species | Height | Gender    | Background |
 | ----------- | ------ | --- | ---------- | ------- | ------ | --------- | ---------- |
 | Cami        | Cleric | 3   | 900        | Aasimar | 5'     | Nonbinary | Hermit     |
 

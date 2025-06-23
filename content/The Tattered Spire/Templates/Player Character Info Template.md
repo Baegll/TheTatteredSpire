@@ -7,9 +7,9 @@ tags:
 ---
 
 
-| Player Name | Class | Lvl | Experience | Race | Height | Gender | Background |
-| ----------- | ----- | --- | ---------- | ---- | ------ | ------ | ---------- |
-|             |       |     |            |      |        |        |            |
+| Player Name | Class | Lvl | Experience | Species | Height | Gender | Background |
+| ----------- | ----- | --- | ---------- | ------- | ------ | ------ | ---------- |
+|             |       |     |            |         |        |        |            |
 
 | AC  | Initiative | Speed | Size | Alignment |
 | --- | ---------- | ----- | ---- | --------- |

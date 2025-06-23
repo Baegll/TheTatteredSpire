@@ -5,7 +5,7 @@ tags:
   - pcs
 ---
 
-| Player Name | Class   | Lvl | Experience | Race           | Height | Gender | Background |
+| Player Name | Class   | Lvl | Experience | Species        | Height | Gender | Background |
 | ----------- | ------- | --- | ---------- | -------------- | ------ | ------ | ---------- |
 | Yancey      | Fighter | 3   | 900        | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
 
@@ -31,6 +31,7 @@ tags:
 ### Goals & Motivations
 - To survive the tragedy of persecution for being a dragonborn.
 - Try to be as worthy of the good party who died fighting for him.
+- Figure out what the heck this egg is for.
 
 ## Factions
 #### Allied
