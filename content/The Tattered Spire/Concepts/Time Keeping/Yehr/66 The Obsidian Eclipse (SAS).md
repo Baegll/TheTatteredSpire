@@ -7,7 +7,7 @@ tags:
   - diveneu
   - lore
 ---
-A terrifying [[Yehr]] where the sun was slowly eclipsed by [[Neton]]. The total eclipse happened during the [[Kamerad]] of [[Halionde]]. For six full [[Daes]], the smoon hung eerily still in front of the sun casting the world into an unnatural twilight that pulsed with shadowy energy. The eclipse was no ordinary celestial event, [[Neton]] appeared to have turned obsidian black, its surface rippling like liquid stone, giving the eclipse its ominous name.
+A terrifying [[Yehr]] where the sun was slowly eclipsed by [[Neton]]. The total eclipse happened during the [[Kamerad]] of [[Halionde]]. For six full [[Daes]], the moon hung eerily still in front of the sun casting the world into an unnatural twilight that pulsed with shadowy energy. The eclipse was no ordinary celestial event, [[Neton]] appeared to have turned obsidian black, its surface rippling like liquid stone, giving the eclipse its ominous name.
 
 ## The Neton Schism
 The eclipse created an unprecedented crisis within the faithful. [[Netandites]] interpreted the event as a divine sign that [[Netandiel]] was asserting dominance over the other celestials, preparing to ferry all souls to their final judgement. They proclaimed it [[The Great Passage]] and performed massed funeral rites for the living, believing death would soon claim all.
