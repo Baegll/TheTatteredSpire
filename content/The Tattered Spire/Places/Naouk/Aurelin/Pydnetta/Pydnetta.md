@@ -17,31 +17,31 @@ A curious violet flower began to bloom in vivid contrast to the muted greens of 
 ---
 
 ## The Birth of the [[Pydnetta]]
-During the long night of [[66 The Obsidian Eclipse (SAS)|The Obsidian Eclipse]], a clan of [[Gnome|Gnomes]] dwelling on the plains who worshipped [[Zedancial]] claimed that a dreamy aspect of [[Neton]] blanketed the land—soft and warm, like a cloth over a toddler’s eyes. Some believed they had become trapped in an eternal dream; others felt they had ascended to a higher state of euphoria.
-
-They agreed on one thing: awakening—or surrendering fully to the dream—required transcendence.
+During [[66 The Obsidian Eclipse (SAS)|The Obsidian Eclipse]], a clan of [[Gnome|Gnomes]] dwelling on the plains who worshipped [[Zedancial]] felt a dreamy energy blanket the land—soft and warm, like a cloth over a toddler’s eyes. Some believed they had become trapped in an eternal dream of darkness; others felt they had to embrace their new euphoria. Both groups, however, agreed that a deeper level of consciousness was required—to either awaken, or fully embrace the dream.
 
 As with many [[Zedancial]] rituals, their path led through hallucinatory transformation. The [[Gnome|Gnomes]] began crafting a flower through enchantment and devotion, one that could carry their minds across the veil. What emerged was the first [[Pydnetta]].
 
 Over days of fevered rites, the flower absorbed the [[Gnome|Gnomes]]’ essence, soaking up dreams, fears, and divine intention. However, when the eclipse finally broke and sunlight pierced the sky, the swollen bloom burst prematurely—releasing a potent hallucinogen into the air. That burst would seed the first [[Pydnetta]]. Today, the [[Pydnetta]] thrives across the valley, its life cycle echoing the conditions of its birth. It lies dormant for months, drinking greedily from the sodden plains, only to erupt in bloom after heavy seasonal rainstorms darken the sky, mimicking the eclipse that birthed it.
 
+As for the clan of Gnomes, no trace except for their dilapidated dwellings remain.
+
 ---
 
 ## The [[Pydnetta]] Flower
-The [[Pydnetta]] is a small violet flower with an intricate root system that reaches deep into the sodden earth. During the frequent storms of the region, it swells into a bulbous sac rich in water and nutrients. After a short incubation, the sac bursts, releasing a mild hallucinogenic mist into the air—what locals now call the [[Laughing Bloom]], in honor of [[Zedancial]].
+The [[Pydnetta]] is a small violet flower with an shallow root system that sprawls across the sodden earth. During the frequent storms of the region, it swells into a bulbous sac rich in water and nutrients. After a short incubation, the sac bursts, releasing a mild hallucinogenic mist into the air—what locals now call the [[Laughing Bloom]], in honor of [[Zedancial]].
 
-The Bloom affects more than just travelers. Wildlife exposed to it often experiences brief periods of accelerated growth or unusual behavior, the reasons for which remain poorly understood.
+The [[Laughing Bloom]] affects more than just travelers. Wildlife exposed to it often experiences brief periods of accelerated growth or unusual behavior, the reasons for which remain poorly understood.
 
-Because the Pydnetta absorbs so much groundwater, flood conditions are mitigated, extending the window for agriculture between wet seasons. This has made once-inhospitable terrain fertile and inviting.
+Because the Pydnetta absorbs so much groundwater, flood conditions are mitigated, extending the window for agriculture between wet seasons. This has made unproductive terrain fertile and inviting.
 
 ---
 
 ## Since the [[66 The Obsidian Eclipse (SAS)|Obsidian Eclipse]]
-Travelers passing through the [[Pydnetta]] plains—en route between [[Diveneu]] and [[Aparinaskalio]]—often find themselves unintentionally exposed to the [[Laughing Bloom]]. Whether weary, heartbroken, or simply curious, many wanderers find peace amid the lush vegetation that often grows nearby. And in that peace, they stay.
+Travelers passing through the [[Pydnetta]] plains—usually en route between [[Diveneu]] and [[Aparinaskalio]]—often find themselves unintentionally exposed to the [[Laughing Bloom]]. Whether wearied by long travel, seeking spiritual renewal, or simply lost, countless wanderers find peace amid the lush vegetation that often grows nearby. And in that peace, they stay.
 
 Communities sprouted around [[Pydnetta]] patches, each one drawn by the fertility of the land and the ease of life beneath violet blossoms. Over time, these settlements formed a loose collective—not a city in the strict sense, but an ecosystem of hubs connected by trade, stories, and a shared haze of calm.
 
-Attempts to industrialize the plains have all ended in quiet failure. Entrepreneurs who send crews to [[Pydnetta]] inevitably lose them to the easygoing rhythm of local life. Pydnetta doesn’t resist change—it simply lulls it into stillness.
+Attempts to industrialize the plains have all ended in quiet failure. Entrepreneurs who send crews to [[Pydnetta]] inevitably lose them to the easygoing rhythm of local life. In contrast to neighboring [[Diveneu]], Pydnetta doesn’t resist change—it simply lulls it into stillness.
 
 
 ---
