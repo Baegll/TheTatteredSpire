@@ -1,4 +1,6 @@
 ---
+aliases:
+  - The Obsidian Eclipse
 tags:
   - time
   - religion
