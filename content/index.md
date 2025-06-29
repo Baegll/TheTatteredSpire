@@ -8,19 +8,19 @@ This is a campaign setting created by @Baegll and friends!
 ## [[Diveneu]]
 It is a city of turmoil.
 
-[[The Palestone Bloodline]] has had an iron grip on the council of the city for so long, but their power is waning. After years of prosperity, their recent scraping victory in [[The Stone War]] has the Crested and Crestative families eyes glistening with potential power and wealth. With so many factions vying for control, which will you ally yourself with? The city itself is not the only danger, with recent extraplanar threats displacing the local wildlife, there are plenty of reasons to die in the wilderness, whether for your own profit or a nobles whim.
+[[The Palestone Bloodline]] has had an iron grip on the council of the city for so long, but their power is waning. After years of prosperity, their recent scraping victory in [[The Stone War]] has the Crested and Crestative families eyes glistening with potential power and wealth. With so many factions vying for control, which will you ally yourself with? The city itself is not the only danger; with recent extraplanar threats displacing the local wildlife, there are plenty of reasons to die in the wilderness, whether for your own profit or a noble's whim.
 
-You are one of many 3rd-level adventurers. You may know some familiar faces. You have seen The Board with lots of jobs available at [[The Sanron Company]] or specifically been requested with a task by some Noble who lives in town.
+You are one of many 3rd-level adventurers. You may know some familiar faces. You have seen The Board with lots of jobs available at [[The Sanron Company]] or been specifically requested with a task by some noble who lives in town.
 
-Adventuring is a diverse job with many races using it as a dangerous quick cash grab, their only way of making a living, or a way to pursue nobility and honor.
+Adventuring is a diverse job, with many races using it as a dangerous quick cash grab, their only way of making a living, or a way to pursue nobility and honor.
 
 You might be a [[Human]], while this city is not yours, your people have always existed in [[Aurelin]] and many variations of your culture have existed in the city.
 
 You might be a [[Dwarf]], your people built this city, and many nobles and commoners thrive in the city in all aspects of trade, industry, and politics.
 
-You might be an [[Elf]], while a recent addition to the city, your people have known these mountains long before civilaztion took roots here.
+You might be an [[Elf]]. While a recent addition to the city, your people have known these mountains long before civilaztion took roots here.
 
-You could be a [[Dragonborn]], created by the terrible [[Furzhold M Groust]] your kind are outlawed in many cities, however not this one. This does not stop the bounty hunters from attempting to claim your head as the local city [[]] has a hefty gold reward on the heads of your kind.
+You could be a [[Dragonborn]], created by the terrible [[Furzhold M Groust]]. Your kind are outlawed in many cities; however, not Diveneu. This does not stop the bounty hunters from attempting to claim your head as the local city [[Kemp]] has a hefty gold reward on the heads of your kind.
 
 You might be a [[Gnome]], a people determined to create the future, and attempt to control its direction.
 
