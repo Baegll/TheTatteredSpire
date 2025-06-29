@@ -36,6 +36,8 @@ You might be a [[Goliath]], your people ruled these mountains for many years bef
 
 ---
 
+## Contribution Guide
+
 If youre interested in adding your notes to the world or adding your character sheet to the PCs folder by filling out your own [[Player Character Info Template]] you can learn how I'm using Quartz to render this [Obsidian](https://obsidian.md) vault by checking out the documentation at [Quartz](https://quartz.jzhao.xyz/), or following the guide below.
 
 ### Set up Github
