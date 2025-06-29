@@ -13,7 +13,7 @@ As an Aasimar, you have these special traits.
 **Darkvision**. You [[Darkvision]] with a range of 60 feet.
 
 **Healing Hands**. As a [[Actions#Table Actions|Magic action]], you touch a creature and roll a number of d4s equal to your [[Proficiency]] bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can't use it again until you finish a [[Long Rest]].
-**Light Bearer**. You know the [[Light]] cantrip. [[The Six Abilities|Charisma]] is your spellcasting ability for it.
+**Light Bearer**. You know the [[Light (Spell)|Light]] cantrip. [[The Six Abilities|Charisma]] is your spellcasting ability for it.
 
 **Celestial Revelation**. When you reach character level 3, you can transform as a [[Actions#Bonus Actions|Bonus Action]] using one of the options below (choose the option each time you transform). The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a [[Long Rest]].
 

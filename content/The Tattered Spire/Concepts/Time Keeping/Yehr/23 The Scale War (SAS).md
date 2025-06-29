@@ -1,4 +1,6 @@
 ---
+aliases:
+  - The Scale War
 tags:
   - time
   - lore
