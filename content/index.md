@@ -20,7 +20,7 @@ You might be a [[Dwarf]], your people built this city, and many nobles and commo
 
 You might be an [[Elf]]. While a recent addition to the city, your people have known these mountains long before civilaztion took roots here.
 
-You could be a [[Dragonborn]], created by the terrible [[Furzhold M Groust]]. Your kind are outlawed in many cities; however, not Diveneu. This does not stop the bounty hunters from attempting to claim your head as the local city [[Kemp]] has a hefty gold reward on the heads of your kind.
+You could be a [[Dragonborn]], created by the terrible [[Furzhold M Groust]]. Your kind are outlawed in many cities; however, not Diveneu. This does not stop the bounty hunters from attempting to claim your head as the local city [[Phericea]] has a hefty gold reward on the heads of your kind.
 
 You might be a [[Gnome]], a people determined to create the future, and attempt to control its direction.
 
