@@ -1,18 +1,15 @@
-# Quartz v4
+# The Tattered Spire
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+We use Quartz to host this website with Github Pages!!
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Contribution Guide
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+If youre interested in adding your notes to the world or adding your character sheet to the PCs folder by filling out your own [Player Character Info Template](https://baegll.github.io/TheTatteredSpire/The-Tattered-Spire/Templates/Player-Character-Info-Template) 
+you can learn how I'm using Quartz to render this [Obsidian](https://obsidian.md) vault by checking out the documentation at [Quartz](https://quartz.jzhao.xyz/).
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Contribution is a WIP process that I'm actvely refining!
 
-## Sponsors
+Easiest way to get involved is to join us on the [The Tattered Spire discord](https://discord.gg/bunVGKf7) and join the #setting-development or #website-development dev channels by pinging @Baegll
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+If youre fluent in Git, the process is very easy, just clone the repo, point your obsidian vault at the `content` folder, make changes, then create a PR!
+
