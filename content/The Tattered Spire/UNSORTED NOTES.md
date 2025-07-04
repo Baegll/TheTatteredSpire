@@ -9,14 +9,23 @@ One of the Copper Pockets which caused some bad shit to happen be named [[Verdig
 
 How should I keep track of faction happiness / power / reputation
 
-- [ ] Boost up Cleric Divine Order Protector option
-
-#### Level 1: Divine Order
-You have dedicated yourself to one of the following sacred roles of your choice.
-
-**Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
-
 Priests pack costs 19gp
 
-- [ ] update rules glossary
+- [ ] equipment
 
+### Website-Development TODO
+- [ ] Real-Life calendar on website?
+- [ ] Graphic for [[The Sanron Company]] quest board?
+- [ ] 5.5e Rules written down
+	- [ ] Subclasses
+	- [ ] Equipment
+	- [ ] More Species
+- [ ] Fix the 404 page
+- [ ] More in-depth index home page
+	- [ ] How Obsidian Wiki works
+	- [ ] How to add content
+- [ ] Make github link on website link to TheTatteredSpire repo
+### Setting-Development TODO
+- [ ] Flesh out local area
+- [ ] Diveneu districts need more content
+- [ ] More NPCs
