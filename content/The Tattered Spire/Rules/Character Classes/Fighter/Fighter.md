@@ -46,9 +46,9 @@ As a Fighter, you gain the following class features when you reach the specified
 | 19    | +6                   | Epic Boon                                         | 4              | 6                 |
 | 20    | +6                   | Three Extra Attacks                               | 4              | 6                 |
 #### Level 1: Fighting Style
-You have honed your martial prowess and gain a [[Fighting Style]] feat of your choice (see "[[Feats]]").
+You have honed your martial prowess and gain a [[Fighting Style Feat]] feat of your choice (see "[[Feats]]").
 
-Whenever you gain a Fighter level, you can replace the feat you chose with a different [[Fighting Style]] feat.
+Whenever you gain a Fighter level, you can replace the feat you chose with a different [[Fighting Style Feat]] feat.
 #### Level 1: Second Wind
 You have a limited well of physical and mental stamina that you can draw on. As a [[Actions#Bonus Actions|Bonus Action]], you can use it to regain [[Damage and Healing#Hit Points|Hit Points]] equal to 1d10 plus your Fighter level.
 

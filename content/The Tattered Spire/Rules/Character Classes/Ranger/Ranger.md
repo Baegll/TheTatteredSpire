@@ -78,7 +78,7 @@ Thanks to your travels, you gain the following benefits.
 
 **Languages.** You know two languages of your choice from the language tables in "[[Character Creation]]."
 #### Level 2: Fighting Style
-You gain a [[Fighting Style]] feat of your choice (see "[[Feats]]"). Instead of choosing one of those feats, you can choose the option below.
+You gain a [[Fighting Style Feat]] feat of your choice (see "[[Feats]]"). Instead of choosing one of those feats, you can choose the option below.
 
 **Druidic Warrior.** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). The chosen cantrips count as Ranger spells for you, and [[The Six Abilities|Wisdom]] is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 #### Level 3: Ranger Subclass

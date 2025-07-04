@@ -72,7 +72,7 @@ Your training with weapons allows you to use the [[mastery properties]] of two k
 
 Whenever you finish a [[Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[mastery properties]] of [[Halberd|Halberds]] and [[Flail|Flails]].
 #### Level 2: Fighting Style
-You gain a [[Fighting Style]] feat of your choice (see "[[Feats]]" for feats). Instead of choosing one of those feats, you can choose the option below.
+You gain a [[Fighting Style Feat]] feat of your choice (see "[[Feats]]" for feats). Instead of choosing one of those feats, you can choose the option below.
 
 **Blessed Warrior.** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). The chosen cantrips count as Paladin spells for you, and [[The Six Abilities|Charisma]] is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 #### Level 2: Paladin's Smite

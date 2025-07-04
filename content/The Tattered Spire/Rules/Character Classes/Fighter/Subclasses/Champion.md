@@ -12,7 +12,7 @@ Thanks to your athleticism, you have [[D20 Tests#Advantage/Disadvantage|Advantag
 
 In addition, immediately after you score a [[Damage and Healing#Critical Hits|Critical Hit]], you can move up to half your [[Speed]] without provoking [[Combat#Opportunity Attacks|Opportunity Attacks]].
 #### Level 7: Additional Fighting Style
-You gain another [[Fighting Style]] feat of your choice.
+You gain another [[Fighting Style Feat]] feat of your choice.
 #### Level 10: Heroic Warrior
 The thrill of battle drives you toward victory. During combat, you can give yourself [[D20 Tests#Heroic inspiration|Heroic Inspiration]] whenever you start your turn without it.
 #### Level 15: Superior Critical

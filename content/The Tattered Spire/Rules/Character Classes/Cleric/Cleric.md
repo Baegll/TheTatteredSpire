@@ -72,7 +72,7 @@ If another Cleric feature gives you spells that you always have prepared, those 
 #### Level 1: Divine Order
 You have dedicated yourself to one of the following sacred roles of your choice.
 
-**Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
+**Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor. In addition, you gain one [[Fighting Style Feat]] of your choice.
 
 **Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your [[The Six Abilities|Intelligence]] ([[Proficiency#Skill Proficiencies|Arcana]], [[Proficiency#Skill Proficiencies|History]], [[Proficiency#Skill Proficiencies|Investigation]], [[Proficiency#Skill Proficiencies|Nature]], and [[Proficiency#Skill Proficiencies|Religion]]) checks. The bonus equals your [[The Six Abilities|Wisdom]] modifier (minimum of +1).
 #### Level 2: Channel Divinity
