@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      notFound: "Either this page is private or doesn't exist. If youre interested in writing it, check out the github repo. https://github.com/Baegll/TheTatteredSpire",
       home: "Return to Homepage",
     },
     folderContent: {
