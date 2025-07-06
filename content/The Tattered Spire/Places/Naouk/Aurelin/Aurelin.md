@@ -12,4 +12,4 @@ One of the three major Continents of [[Naouk]]. Home to many towns and villages.
 ## [[Pydnetta]]
 ## [[Acenus]]
 ## [[Phericea]]
-## [[Phericea]]
+## [[Kemp]]
