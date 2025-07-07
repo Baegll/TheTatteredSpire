@@ -2,6 +2,8 @@
 tags:
   - time
   - lore
+aliases:
+  - yehrs
 ---
 
 Ye-ahr
