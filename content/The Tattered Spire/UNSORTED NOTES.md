@@ -11,8 +11,6 @@ How should I keep track of faction happiness / power / reputation
 
 Priests pack costs 19gp
 
-- [ ] equipment
-
 ### Website-Development TODO
 - [ ] Real-Life calendar on website?
 - [ ] Graphic for [[The Sanron Company]] quest board?
@@ -20,7 +18,6 @@ Priests pack costs 19gp
 	- [ ] Subclasses
 	- [ ] Equipment
 	- [ ] More Species
-- [ ] Fix the 404 page
 - [ ] More in-depth index home page
 	- [ ] How Obsidian Wiki works
 	- [ ] How to add content

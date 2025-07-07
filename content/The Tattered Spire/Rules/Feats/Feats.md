@@ -41,6 +41,7 @@ The description of a feat contains the following parts, which are presented afte
 - [[Heavy Armor Master]]
 - [[Inspiring Leader]]
 - [[Keen Mind]]
+- [[Keen Mind (Legacy)]]
 - [[Lightly Armored]]
 - [[Mage Slayer]]
 - [[Martial Weapon Training]]
