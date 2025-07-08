@@ -49,6 +49,7 @@ The description of a feat contains the following parts, which are presented afte
 - [[Moderately Armored]]
 - [[Mounted Combatant]]
 - [[Observant]]
+- [[Observant (Legacy)]]
 - [[Piercer]]
 - [[Poisoner]]
 - [[Polearm Master]]
