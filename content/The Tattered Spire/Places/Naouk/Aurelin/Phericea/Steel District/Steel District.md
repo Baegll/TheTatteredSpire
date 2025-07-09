@@ -1,5 +1,8 @@
-
-
+---
+tags:
+  - lore
+  - phericea
+---
 ## Introduction
 
 "You'll know you're in the Steel District just as soon as your eyes start burning from the sting of smoke and coal ash.."
