@@ -1,5 +1,8 @@
-
-
+---
+tags:
+  - lore
+  - phericea
+---
 ## Introduction
 
 Approaching the entrance to the mine you notice the signs of industry and hard labor, broken tools and mine carts are strewn about a salvage yard awaiting repair, a few scattered crews of tough looking dirty people of all races are on break from their shifts, and a scant group of vendors pushes carts and shouts their wares of food and drink to the weary workers. Sitting not too far from the entrance is a tall statue of [[Aelia Saxur]].
