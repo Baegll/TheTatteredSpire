@@ -4,15 +4,15 @@ tags:
 ---
 #### Table: Core Bard Traits
 
-| Primary Ability                                          | Charisma                                                                                                                     |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die                                            | D8 per Bard level                                                                                                            |
-| Saving Throw Proficiencies                               | Dexterity and Charisma                                                                                                       |
-| [[Proficiency#Skill Proficiencies\|Skill Proficiencies]] | Choose any 3 skills                                                                                                          |
-| Weapon Proficiencies                                     | Simple weapons                                                                                                               |
-| Tool Proficiencies                                       | Choose 3 Musical Instruments (see "[[Equipment]]")                                                                           |
-| Armor Training                                           | Light armor                                                                                                                  |
-| Starting Equipment                                       | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, En tertainer's Pack, and 19 GP; or (B) 90 GP |
+| Primary Ability                                          | Charisma                                                                                                                    |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Hit Point Die                                            | D8 per Bard level                                                                                                           |
+| Saving Throw Proficiencies                               | Dexterity and Charisma                                                                                                      |
+| [[Proficiency#Skill Proficiencies\|Skill Proficiencies]] | Choose any 3 skills                                                                                                         |
+| Weapon Proficiencies                                     | Simple weapons                                                                                                              |
+| Tool Proficiencies                                       | Choose 3 Musical Instruments (see "[[Equipment]]")                                                                          |
+| Armor Training                                           | Light armor                                                                                                                 |
+| Starting Equipment                                       | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
 ### Becoming a Bard
 #### As a Level 1 Character
 • Gain all the traits in the Core Bard Traits table.
