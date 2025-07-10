@@ -20,7 +20,7 @@ Worshipers of Zedancial seek to delight. Their joy is a weapon, their laughter c
 ## [[Vordekael]]
 Celebrated on [[Vordendae]]. Vordekael is known as the Morninglord, and a deity of dawn, renewal, birth, athletics, spring, self-perfection, vitality, and youth.
 
-Worshipers of Vodekael [[Vordekaes|(Vordekaes)]] seek to build. Encouraging the rebirth of desolated areas and for villages to grow into towns, and towns into cities. To do this, they battle monsters, plant seeds, serve the public, recover lost magical items, literature, and works of art.
+Worshipers of Vordekael [[Vordekaes|(Vordekaes)]] seek to build. Encouraging the rebirth of desolated areas and for villages to grow into towns, and towns into cities. To do this, they battle monsters, plant seeds, serve the public, recover lost magical items, literature, and works of art.
 ## [[Tokon]]
 Celebrated on [[Tondae]]. Tokon is known as Breaker of Chains, a deity of perseverance, cruelty, shadow, secrets, and torment.
 
