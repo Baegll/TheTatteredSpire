@@ -9,7 +9,7 @@ As an [[Actions|Action]], you can touch a creature and spend some healing dice f
 
 Instead of healing the creature, you can expend 1 dice from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Healing Hands, expending hit dice separately for each one.
 
-You can spend 1 ki point to use this feature as a [[Actions#Bonus Actions|Bonus Action]].
+You can spend 1 Focus Point to use this feature as a [[Actions#Bonus Actions|Bonus Action]].
 
 This feature has no effect on undead and constructs.
 #### Level 6: Emissary of Peace
@@ -19,9 +19,9 @@ You also gain proficiency in the [[Proficiency#Skill Proficiencies|Performance]]
 #### Level 11: Douse the Flames of War
 At 11th level, you gain the ability to use rudimentary divine magic to help your allies, prevent conflicts and reduce hostility. You can spend ki points to cast the following spells, without using material components.
 
-[[Command]] - 2 ki
-[[Calm Emotions]] - 3 ki
-[[Beacon of Hope]] - 4 ki
+[[Command]] - 2 Focus Points
+[[Calm Emotions]] - 3 Focus Points
+[[Beacon of Hope]] - 4 Focus Points
 #### Level 17: Anger of a Gentle Soul
 At 17th level, you gain the ability to visit vengeance on someone who fells others. If you see a creature reduce another creature to 0 hit points, you can use your [[Actions#Reactions|Reaction]] to grant yourself a bonus to all damage rolls against the aggressor until the end of your next turn. The bonus equals your monk level.
 
