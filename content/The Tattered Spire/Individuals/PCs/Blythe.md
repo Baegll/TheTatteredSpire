@@ -24,16 +24,40 @@ tags:
 ## DESCRIPTION
 
 ### Traits
+Quiet and a listener 
+
+Waits until she has context before she speaks Says everything with a smile even if the words are cutting 
+
+Twisted sense of right and wrong 
+
+Tidy and well kept
 ### Ideals
+Power 
+
+Knowledge 
+
+Respect 
+
+Responsibility 
+
+Perseverance to live/suffering is proof you're alive ([[Tokon]])
 ### Bonds
+[[The Duergar Clan]] is the family that bought your character. The majority of them worship [[Tokon]]- the deity known as the breaker of chains, a deity of perseverance, cruelty, shadow, secrets, and torment. 
+
+Worshipers of Tokon believe suffering is sacred, where an Netandite seeks to guide souls onward, Tokonites delay the passage in the hope one might find their strength and continue to live, eventually even thrive.
 ### Flaws & Struggles
+Manipulates others 
+
+Masking 95% of time 
+
+Secretive
 ### Goals & Motivations
-
-
 ## Factions
 #### Allied
+[[The Duergar Clan|Duergars]]
 #### Friendly
 #### Disliked
+[[Vordekaes]]
 #### Hated
 ### Favors
 - [[Snikz Ikot]] owes a small favor
