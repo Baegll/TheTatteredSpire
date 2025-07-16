@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class     | Lvl | Experience | Species | Height | Gender | Background |
 | ----------- | --------- | --- | ---------- | ------- | ------ | ------ | ---------- |
-| Miles       | Barbarian | 3   | 900        | Gnome   |        | He/Him | Soldier    |
+| Miles       | Barbarian | 3   | 1850       | Gnome   |        | He/Him | Soldier    |
 
 | AC  | Initiative | Speed | Size  | Alignment |
 | --- | ---------- | ----- | ----- | --------- |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 29   | 0      | 0      |
+| 0        | 0        | 202  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -35,7 +35,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

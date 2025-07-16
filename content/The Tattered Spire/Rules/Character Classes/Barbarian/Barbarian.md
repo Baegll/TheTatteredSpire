@@ -14,7 +14,7 @@ tags:
 | Starting Equipment                                       | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP   |
 ### Becoming a Barbarian
 #### As a Level 1 Character
-• Gain all the traits in the Core Barbarian Traits table.
+• Gain all the traits in the Core eBarbarian Traits table.
 • Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 #### As a Multiclass Character
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.

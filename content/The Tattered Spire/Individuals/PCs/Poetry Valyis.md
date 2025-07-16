@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class | Lvl | Experience | Species  | Height | Gender  | Background |
 | ----------- | ----- | --- | ---------- | -------- | ------ | ------- | ---------- |
-| Megan       | Rogue | 3   | 900        | Tiefling |        | She/Her | Scribe     |
+| Megan       | Rogue | 3   | 1850       | Tiefling |        | She/Her | Scribe     |
 
 | AC  | Initiative | Speed | Size   | Alignment |
 | --- | ---------- | ----- | ------ | --------- |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 31   | 0      | 0      |
+| 0        | 0        | 204  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -35,7 +35,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 
@@ -88,6 +89,7 @@ tags:
 - Quiver
 - Thieves' Tools
 - Burglar's Pack
+- 2 [[Scroll of Sending]]
 ## Proficiencies / Skills
 #### Language
 #### Armor

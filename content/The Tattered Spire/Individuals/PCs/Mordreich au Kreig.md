@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class   | Lvl | Experience | Species        | Height | Gender | Background |
 | ----------- | ------- | --- | ---------- | -------------- | ------ | ------ | ---------- |
-| Yancey      | Fighter | 3   | 900        | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
+| Yancey      | Fighter | 3   | 1850       | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
 
 | AC  | Initiative | Speed | Size   | Alignment    |
 | --- | ---------- | ----- | ------ | ------------ |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 4    | 0      | 0      |
+| 0        | 0        | 177  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -38,7 +38,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

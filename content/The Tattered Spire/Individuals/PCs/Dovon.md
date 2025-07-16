@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class  | Lvl | Experience | Species | Height | Gender | Background |
 | ----------- | ------ | --- | ---------- | ------- | ------ | ------ | ---------- |
-| Delaney     | Ranger | 3   | 900        | Dwarf   | 4'6"   |        | Noble      |
+| Delaney     | Ranger | 3   | 1850       | Dwarf   | 4'6"   |        | Noble      |
 
 | AC  | Initiative | Speed | Size   | Alignment    |
 | --- | ---------- | ----- | ------ | ------------ |
@@ -20,7 +20,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-|          | 0        | 29   | 0      | 0      |
+|          | 0        | 202  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -41,7 +41,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

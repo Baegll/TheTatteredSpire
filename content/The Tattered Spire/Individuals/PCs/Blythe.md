@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class | Lvl | Experience | Species | Height | Gender  | Background |
 | ----------- | ----- | --- | ---------- | ------- | ------ | ------- | ---------- |
-| Blythe      | Bard  | 3   | 900        | Drow    | 5'2"   | She/Her | Charlatan  |
+| Blythe      | Bard  | 3   | 1850       | Drow    | 5'2"   | She/Her | Charlatan  |
 
 | AC  | Initiative | Speed | Size   | Alignment   |
 | --- | ---------- | ----- | ------ | ----------- |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 69   | 0      | 0      |
+| 0        | 0        | 242  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -35,7 +35,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

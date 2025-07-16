@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class | Lvl | Experience | Species | Height | Gender | Background |
 | ----------- | ----- | --- | ---------- | ------- | ------ | ------ | ---------- |
-| Zac         | Monk  | 3   | 900        | Elf     |        | He/Him | Wayfarer   |
+| Zac         | Monk  | 3   | 1850       | Elf     |        | He/Him | Wayfarer   |
 
 | AC  | Initiative | Speed | Size   | Alignment |
 | --- | ---------- | ----- | ------ | --------- |
@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 27   | 0      | 0      |
+| 0        | 0        | 200  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -35,7 +35,8 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

@@ -37,6 +37,7 @@ tags:
 #### Friendly
 #### Disliked
 #### Hated
+### Favors
 
 
 ## Stats

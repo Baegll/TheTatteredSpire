@@ -13,6 +13,7 @@ draft: true
 ## Description
 <!paragraph>
 ### Personality
+KGB Mafia type vibes
 ### History / Background
 ### Family
 - [[The Torken Family]]

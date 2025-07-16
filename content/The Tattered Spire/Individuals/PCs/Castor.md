@@ -9,7 +9,7 @@ draft: false
 
 | Player Name | Class  | Lvl | Experience | Species | Height | Gender    | Background |
 | ----------- | ------ | --- | ---------- | ------- | ------ | --------- | ---------- |
-| Cami        | Cleric | 3   | 900        | Aasimar | 5'     | Nonbinary | Hermit     |
+| Cami        | Cleric | 3   | 1850       | Aasimar | 5'     | Nonbinary | Hermit     |
 
 | AC  | Initiative | Speed | Size  | Alignment   |
 | --- | ---------- | ----- | ----- | ----------- |
@@ -21,7 +21,7 @@ draft: false
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 55   | 0      | 0      |
+| 0        | 0        | 218  | 0      | 0      |
 
 ## DESCRIPTION
 
@@ -42,7 +42,8 @@ draft: false
 #### Friendly
 #### Disliked
 #### Hated
-
+### Favors
+- [[Snikz Ikot]] owes a small favor
 
 ## Stats
 

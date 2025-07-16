@@ -2,6 +2,7 @@
 aliases:
   - Bismuth Dragon
   - Bismuth Dragons
+  - Bi
 tags:
   - dragon
   - lore
