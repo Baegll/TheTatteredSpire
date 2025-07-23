@@ -48,6 +48,8 @@ The party leaves the bodies of the bounty hunter bandits on the ground in town.
 The party destroyed four [[Palestone Temcron Core]]'s which were attuned to [[Aletta Verdiclow|Aletta]]
 The party kills an Aasimar Wizard [[Aletta Verdiclow]]. (by dealing 107 damage over 7 turns)
 The party destroys [[The Anatome]].
+The party delivered the scrolls to [[Jinri Mio]]
+
 #### Loot:
 53 gold total per person
 500xp per person

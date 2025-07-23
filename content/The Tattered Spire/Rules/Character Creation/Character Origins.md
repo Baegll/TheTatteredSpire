@@ -6,7 +6,7 @@ tags:
 
 Your character's background is a collection of characteristics that represent the place and occupation that were most formative before your character embarked on a life of adventure.
 ### Parts of a Background
-A background includes the following parts.
+A background includes the following parts. The list of backgrounds can be found [[Backgrounds List]]
 #### Ability Scores
 A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20. They are described further in detail in "[[The Six Abilities]]".
 #### Feat

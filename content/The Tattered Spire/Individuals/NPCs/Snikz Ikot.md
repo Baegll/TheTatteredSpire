@@ -20,4 +20,6 @@ They speak with theatrical gestures, exaggerated pauses, and an extensive vocabu
 ### Factions
 - [[The Ikot Family]]
 - [[The Ikotine Library]]
-- 
+
+### Ties
+- [[Ikot]]
