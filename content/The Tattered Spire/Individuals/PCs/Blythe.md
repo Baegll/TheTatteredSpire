@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class | Lvl | Experience | Species | Height | Gender  | Background |
 | ----------- | ----- | --- | ---------- | ------- | ------ | ------- | ---------- |
-| Blythe      | Bard  | 3   | 1850       | Drow    | 5'2"   | She/Her | Charlatan  |
+| Morgan      | Bard  | 3   | 1850       | Drow    | 5'2"   | She/Her | Charlatan  |
 
 | AC  | Initiative | Speed | Size   | Alignment   |
 | --- | ---------- | ----- | ------ | ----------- |

@@ -10,4 +10,4 @@ tags:
 
 **Tool Proficiency:** Calligrapher's Supplies
 
-**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Fine Clothes, Lamp, Oil (3 Flasks), Parchment (12 heets), 23 GP; or (B) 50 GP
+**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Fine Clothes, Lamp, Oil (3 Flasks), Parchment (12 sheets), 23 GP; or (B) 50 GP
