@@ -23,28 +23,28 @@ tags:
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
 #### Table: Wizard Features 
 
-| Level | Proficiency Bonus | Class Features                                 | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|------------------------------------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Ritual Adept, Arcane Recovery    | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Scholar                                        | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Wizard Subclass                                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement                      | 4        | 7               | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Memorize Spell                                 | 4        | 9               | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature                               | 4        | 10              | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | —                                              | 4        | 11              | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement                      | 4        | 12              | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | —                                              | 4        | 14              | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Subclass feature                               | 5        | 15              | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                                              | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement                      | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                                              | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Subclass feature                               | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                                              | 5        | 19              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement                      | 5        | 21              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | —                                              | 5        | 22              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | Spell Mastery                                  | 5        | 23              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                                      | 5        | 24              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Signature Spells                               | 5        | 25              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Class Features                              | Cantrips | Prepared Spells | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| ----- | ----------------- | ------------------------------------------- | -------- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Spellcasting, Ritual Adept, Arcane Recovery | 3        | 4               | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2     | +2                | Scholar                                     | 3        | 5               | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3     | +2                | Wizard Subclass                             | 3        | 6               | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4     | +2                | Ability Score Improvement                   | 4        | 7               | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5     | +3                | Memorize Spell                              | 4        | 9               | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6     | +3                | Subclass feature                            | 4        | 10              | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7     | +3                | —                                           | 4        | 11              | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8     | +3                | Ability Score Improvement                   | 4        | 12              | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9     | +4                | —                                           | 4        | 14              | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10    | +4                | Subclass feature                            | 5        | 15              | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11    | +4                | —                                           | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12    | +4                | Ability Score Improvement                   | 5        | 16              | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13    | +5                | —                                           | 5        | 17              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14    | +5                | Subclass feature                            | 5        | 18              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15    | +5                | —                                           | 5        | 19              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16    | +5                | Ability Score Improvement                   | 5        | 21              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17    | +6                | —                                           | 5        | 22              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Spell Mastery                               | 5        | 23              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Epic Boon                                   | 5        | 24              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Signature Spells                            | 5        | 25              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 #### Level 1: Spellcasting
 As a student of arcane magic, you have learned to cast spells. See "[[Spells]]" for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [[#Wizard spell list]] later in the class's description.
 
