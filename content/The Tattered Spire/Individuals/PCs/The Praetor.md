@@ -1,7 +1,7 @@
 
-| Player Name | Class  | Lvl | Experience | Species | Height | Gender | Background |
-| ----------- | ------ | --- | ---------- | ------- | ------ | ------ | ---------- |
-| Ashley      | Wizard | 3   | 900        | Tabaxi  |        |        |            |
+| Player Name | Class  | Lvl | Experience | Species | Height | Gender  | Background |
+| ----------- | ------ | --- | ---------- | ------- | ------ | ------- | ---------- |
+| Ashley      | Wizard | 3   | 900        | Tabaxi  |        | She/Her |            |
 
 | AC  | Initiative | Speed | Size   | Alignment |
 | --- | ---------- | ----- | ------ | --------- |

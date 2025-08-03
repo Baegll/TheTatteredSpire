@@ -60,7 +60,7 @@ tags:
 |                   |       |          | Investigation   | 2            | 0         | 2        |
 |                   |       |          | Nature          | 0            | 0         | 0        |
 |                   |       |          | Religion        | 0            | 0         | 0        |
-| WISDOM            | 14    | +2       |                 |              |           |          |
+| WISDOM            | 14    | 2        |                 |              |           |          |
 |                   |       |          | Saving Throw    | 0            | 0         | 2        |
 |                   |       |          | Animal Handling | 0            | 0         | 2        |
 |                   |       |          | Insight         | 2            | 0         | 4        |

@@ -7,7 +7,7 @@ tags:
 
 | Character Name | Race       | Height | Weight | Age | Pronouns |
 | -------------- | ---------- | ------ | ------ | --- | -------- |
-| Rohla Ikot     | [[Kobold]] | 2'3"   | 27 lbs | 13  | They/She |
+| Rohla Ikot     | [[Kobold]] | 3'1"   | 27 lbs | 13  | They/She |
 ## Description
 A scrawny, rust-colored kobold with oversized ears, and a twitchy tail that doesn't seem to stop moving. Their eyes are a bright, anxious yellow. A pair of cracked glasses rest precariously on her nose. Her hands are stained with a dark blue ink.
 ### Personality

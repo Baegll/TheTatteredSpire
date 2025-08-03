@@ -25,3 +25,6 @@ Two members of [[The Duergar Clan]] guard say they have reliable intelligence on
 [[Aletta Verdiclow]] was put down after killing 11 civilians in [[The Silver Archives]], 4 bodies were unable to be recovered after the battle due to necromantic acts by [[Aletta Verdiclow|Aletta]].
 ### [[Snikz Ikot]] impresses with latest research
 Latest research from the commendable [[Snikz Ikot]] shows new spell scroll creation that is cheaper and takes less time than leading methods. Those scrolls have been preserved in [[The Silver Archives]] for the elite mages of the city to learn from if they are capable.
+## [[Discretion Requested -Opti]]
+### New Head Archivist at [[The Bronze Courts]]' office broken into
+Local guard found nearly dead after several documents went missing. Questions are asked about how effective the new Archivists protection measures are?

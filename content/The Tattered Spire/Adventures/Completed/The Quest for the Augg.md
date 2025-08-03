@@ -8,7 +8,7 @@ tags:
 ---
 You, however, have specifically done some hunting, a job, or some sort of random task in the city which brought you to a place called [[The Beast & Bone]], where you met a master butcher which you know as '[[Caro Torken|Mr. Torken]]'. He already has a party of adventurers out dealing with some things for him, but they found a high value object which Mr. Torken wants ASAP, but that party still needs to finish their current objective. 
 
-You have signed a blood contract, which you would recognize as Infernal in nature which is Torkens insurance that you will complete this task. So you, and the party travel out to meet this group who has just dealt with a cult worshipping a dragon. 
+You have signed a infernal contract, which you would recognize as Infernal in nature which is Torkens insurance that you will complete this task. So you, and the party travel out to meet this group who has just dealt with a cult worshipping a dragon. 
 
 They hand you something you recognize as an '[[The Augg]]' or more simply, a golden dragon egg. Your quest is to bring this precious cargo back to Mr. Torken as soon as youre able to.
 

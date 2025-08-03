@@ -14,7 +14,7 @@ A shorter tiefling with crimson skin, solid yellow eyes, and shaved down horns. 
 ### Personality
 A young, charming merchant, willing to get you anything you desire if you fairly pay him. Frequently goes by 'Opti'
 ### History / Background
-A young upstart merchant running the majority of trade for [[The Shadowbind Family]]
+A young upstart merchant running the majority of trade for [[The Shadowbind Family]]. Has an office above [[The Gilded Quill]].
 ### Family
 - [[The Shadowbind Family]]
 ### Factions
