@@ -1,7 +1,7 @@
 
 | Player Name | Class  | Lvl | Experience | Species | Height | Gender  | Background |
 | ----------- | ------ | --- | ---------- | ------- | ------ | ------- | ---------- |
-| Ashley      | Wizard | 3   | 900        | Tabaxi  |        | She/Her |            |
+| Ashley      | Wizard | 3   | 1125       | Tabaxi  |        | She/Her |            |
 
 | AC  | Initiative | Speed | Size   | Alignment |
 | --- | ---------- | ----- | ------ | --------- |
@@ -13,7 +13,7 @@
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 28   | 0      | 0      |
+| 0        | 0        | 88   | 0      | 0      |
 
 ## DESCRIPTION
 

@@ -7,12 +7,11 @@ tags:
 
 | Player Name | Class    | Lvl | Experience | Species | Height | Gender | Background |
 | ----------- | -------- | --- | ---------- | ------- | ------ | ------ | ---------- |
-| Logan       | Sorcerer | 3   | 900        | Aasimar |        | He/Him | Scribe     |
+| Logan       | Sorcerer | 3   | 1125       | Aasimar |        | He/Him | Scribe     |
 
 | AC  | Initiative | Speed | Size   | Alignment |
 | --- | ---------- | ----- | ------ | --------- |
 | 12  | 2          | 30    | Medium |           |
-
 
 | Max HP | HP  | Hit die | Total # HD | Current # HD |
 | ------ | --- | ------- | ---------- | ------------ |
@@ -20,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 51   | 0      | 0      |
+| 0        | 0        | 111  | 0      | 0      |
 
 ## DESCRIPTION
 
