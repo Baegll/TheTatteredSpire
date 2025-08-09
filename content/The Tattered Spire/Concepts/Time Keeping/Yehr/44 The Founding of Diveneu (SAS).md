@@ -6,7 +6,7 @@ tags:
 aliases:
   - 44 (SAS)
 ---
-The founding of [[Diveneu]] began with a desperate alliance born of necessity and divine intervention. [[The Palestone Bloodline]], a band of albino [[Dwarve|Dwarves]] who had been outcasts due to their unique coloration, had established a humble village in [[The Diven Mountain Range]] under the shadow of [[Mt. Veridian]]. Their drive to formalize their settlement into a proper town in this year was a convergence of threats and opportunities that demanded unified action.
+The founding of [[Diveneu]] began with a desperate alliance born of necessity and divine intervention. [[The Palestone Bloodline]], a band of albino [[Dwarf|Dwarves]] who had been outcasts due to their unique coloration, had established a humble village in [[The Diven Mountain Range]] under the shadow of [[Mt. Veridian]]. Their drive to formalize their settlement into a proper town in this year was a convergence of threats and opportunities that demanded unified action.
 
 The initial catalyst came from escalating raids by [[The Golzak Tribe]], who claimed dominion over the surrounding territory. The Palestones had been defending against the Golzaks for years, watching many other villages in the area fall to their cruelty. In [[44 The Founding of Diveneu (SAS)|44 (SAS)]], the situation reached a critical point where the palestones realized they needed more than just their own strength to survive. [[The Duergar Clan]], seeking refuge from their own [[Underdark]] problems approached the Palestones for sanctuary. Recognizing an opportunity, the Palestones offered them shelter and the rights to build [[The Under-Diven]] from their old quarries. This alliance brought crucial military strength to defend against both surface and underground threats.
 

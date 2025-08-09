@@ -2,7 +2,6 @@
 aliases:
   - Snikz
 tags:
-  - example
   - mechanics
   - npc
 ---

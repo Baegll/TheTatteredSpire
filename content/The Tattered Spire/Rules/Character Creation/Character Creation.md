@@ -57,7 +57,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 Record your chosen equipment on your character sheet. Equipment is described in "[[Equipment]]," but for now you can just write it all down and look up the specifics in "[[Equipment]]" later. Note any coins you have left after purchasing your equipment.
 #### Choose a Species
 
-Choose a species for your character. The following species options are detailed in "[[#Step 2 Character Origin|Character Origins]]": [[Dragonborn]], [[Dwarf]], [[Elf]], [[Gnome]], [[Goliath]], [[Halfling]], [[Human]], [[Orc]], [[Tiefling]] and more. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a species for your character. The following species options are detailed in "[[#Step 2 Character Origin|Character Origins]]": [[Dragonborn]], [[Rules/Character Creation/Species/Dwarf]], [[Elf]], [[Gnome]], [[Goliath]], [[Halfling]], [[Human]], [[Orc]], [[Tiefling]] and more. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
 Your character's size and [[Speed]] are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 #### Imagine Your Past and Present

@@ -10,7 +10,7 @@ tags:
 
 | Character Name    | Race       | Height | Weight  | Age | Pronouns | Deceased? |
 | ----------------- | ---------- | ------ | ------- | --- | -------- | --------- |
-| Vaddokk Palestone | [[Dwarve]] | 4'4"   | 114 lbs | 184 | He/Him   | Yes       |
+| Vaddokk Palestone | [[Dwarf]] | 4'4"   | 114 lbs | 184 | He/Him   | Yes       |
 ## Description
 First son of [[Thraegar Palestone]] who married [[Hethos Golzak]] in a marriage of convenience in [[44 The Founding of Diveneu (SAS)]] to grant peace to [[Diveneu]].
 

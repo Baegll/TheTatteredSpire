@@ -19,5 +19,6 @@ KGB Mafia leader vibes.
 - [[The Torken Family]]
 ### Factions
 - [[The Torken Family]]
+- [[The Beast & Bone]]
 - [[The Sanron Company]]
 - Strong dislike of [[The Duergar Clan]]

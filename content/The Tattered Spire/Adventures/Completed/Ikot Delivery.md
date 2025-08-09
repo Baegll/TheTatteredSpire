@@ -3,6 +3,7 @@ title: Ikot Delivery
 tags:
   - mechanics
   - lore
+  - baegll
 ---
 # Ikot Family need strong people for safe delivery
 ## Synopsis

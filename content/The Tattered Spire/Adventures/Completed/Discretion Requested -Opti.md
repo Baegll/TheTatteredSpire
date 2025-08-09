@@ -1,8 +1,9 @@
 ---
-title: 
+title: Discretion Requested -Opti
 tags:
   - mechanics
   - lore
+  - baegll
 ---
 # Opti needs a document to go missing
 ## Synopsis

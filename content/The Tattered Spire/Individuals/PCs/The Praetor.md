@@ -1,3 +1,10 @@
+---
+title: The Praetor
+tags:
+  - mechanics
+  - pcs
+---
+
 
 | Player Name | Class  | Lvl | Experience | Species | Height | Gender  | Background |
 | ----------- | ------ | --- | ---------- | ------- | ------ | ------- | ---------- |

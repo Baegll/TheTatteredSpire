@@ -33,7 +33,7 @@ Priests pack costs 19gp
 
 ### Unfinished designs
 - The Eternal Soup Inn
-
+Scalesnout
 ### Quick Reference NPC Names
 - Elxec bi Tolin (Bismuth Dragonborn)
 - Kremlaud ib Gorakris (Green Dragonborn)
@@ -47,7 +47,6 @@ Priests pack costs 19gp
 - Mio
 - Merla
 - Florentina
-- Prisca
 - Liana
 - Alwyn
 - Quesnel
@@ -67,3 +66,4 @@ Priests pack costs 19gp
 - What favor does your character owe that they hope never gets called in?
 - What's the most desperate thing your character has ever done for money?
 - What keeps your character awake at night when they're worried?
+

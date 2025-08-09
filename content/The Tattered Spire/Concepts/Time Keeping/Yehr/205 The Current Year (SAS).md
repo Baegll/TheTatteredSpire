@@ -9,11 +9,11 @@ The current year, this document also serves as general notes for what has happen
 ### The flood of [[Krosstoen]]
 The hamlet of Krosstoen is flooded overnight, a quarter of its members go missing by the next day. Rumors spread of a pair of golden and red dragonborn killing a quarter more of their members. 
 ### The Execution of Lemrash ag Grivyre
-There is an execution happening in town. Three bodies are hung from the gallows, one is still gasping and clawing for breath. A halfling, a dwarf (with dark duergar skin), and a feathered Kobold (with a ring of Ikot).
+There is an execution happening in town. Three bodies are hung from the gallows, one is still gasping and clawing for breath. [[Loni Steltfoot|A halfling]], [[Thyxius Duergar|a dwarf]] (with dark duergar skin), and [[Tuerq Ikot|a feathered Kobold]] (with a ring of Ikot).
 
 Silver dragonborn scales litter the ground, the crowd of a few members of the Bismuth clan, some Duergar clan members. as well as many random townsfolk watching the uncommon spectacle. Watch as the extremely bruised, bashed and low spirited dragonborn is brought to the platform in chains.His horns are shattered and nowhere to be seen, likely taken long before this day.
 
-To be executed is a silver dragonborn, by the name of [[Lemrash ag Grivyre]] for the murder of [[Gulmor Bismuth]]. A grey skinned dwarf named [[Kartharn Duergar]] (The Executioner) on the gallows looks on as a their journeyman executioner, a tiefling known as [[Hymn Livari]], performs the execution. The blade held by Hym has dwarven runes etched in the side, which read: "I strike with justice so that others may live in peace." The Shackles attached to the handle of the blade read "I strike not by my will alone."
+To be executed is a silver dragonborn, by the name of [[Lemrash ag Grivyre]] for the murder of [[Gulmor Bismuth]]. A grey skinned dwarf named [[Kartharn Duergar]] (The Executioner) on the gallows looks on as a their journeyman executioner, a tiefling known as [[Hymn Livari]], performs the execution. The blade held by Hymn has dwarven runes etched in the side, which read: "I strike with justice so that others may live in peace." The Shackles attached to the handle of the blade read "I strike not by my will alone."
 
 The Executioner reads aloud "For the murder of Gulmor Bismuth, I act for the council in putting Lemrash ag Grivyre to death by beheading." Without a moments notice, he shackles the execution blade to [[Hymn Livari|Hymns']] hands.
 

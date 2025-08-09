@@ -1,6 +1,6 @@
 ---
+title: Rohla Ikot
 tags:
-  - example
   - mechanics
   - npc
 ---

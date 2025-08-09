@@ -10,7 +10,7 @@ tags:
 
 | Character Name     | Race       | Height | Weight  | Age | Pronouns | Deceased? |
 | ------------------ | ---------- | ------ | ------- | --- | -------- | --------- |
-| Thraegar Palestone | [[Dwarve]] | 4'6"   | 134 lbs | 73  | He/Him   | Yes       |
+| Thraegar Palestone | [[Dwarf]] | 4'6"   | 134 lbs | 73  | He/Him   | Yes       |
 ## Description
 
 ### Family

@@ -6,7 +6,7 @@ tags:
 ### Species
 - [[Aasimar]]
 - [[Dragonborn]]
-- [[Dwarf]]
+- [[Rules/Character Creation/Species/Dwarf]]
 - [[Elf]]
 - [[Gnome]]
 - [[Goliath]]
