@@ -7,7 +7,7 @@ tags:
 
 | Player Name | Class   | Lvl | Experience | Species        | Height | Gender | Background |
 | ----------- | ------- | --- | ---------- | -------------- | ------ | ------ | ---------- |
-| Yancey      | Fighter | 3   | 1850       | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
+| Yancey      | Fighter | 3   | 2175       | [[Dragonborn]] | 6'9"   | Male   | Soldier    |
 
 | AC  | Initiative | Speed | Size   | Alignment    |
 | --- | ---------- | ----- | ------ | ------------ |
