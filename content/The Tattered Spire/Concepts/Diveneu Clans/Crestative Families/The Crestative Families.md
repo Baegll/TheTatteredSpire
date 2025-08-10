@@ -17,10 +17,10 @@ The Gravesbones created and maintained [[The Catacombs]], their respect for the 
 The Copper Pockets are a Gnome family which is the head of [[The Copper District]]. Being the controllers of the main commerce hub, their position at [[The Diveneu Council|Council]] was only a matter of time.
 ### [[The Serpentin Clan]]
 A former [[The Crested Families|Crested]], this dwarven Clan fell from grace and was destroyed during [[157 The Stone War (SAS)|The Stone War]] when both sides learned they were profiting from selling deadly toxins and weapons to rivaling families, with no allies to fall back on, they were [[The Serpentin's Folly|hunted down and their estate was destroyed in a single night]].
-### [[The Faendil Family]]Add commentMore actions
+### [[The Faendil Family]]
 This elven family controlled a profitable trade route through [[The Diven Mountain Range]] by a path on [[Mt. Faen]]. Their family was destroyed by [[The Copper Pocket|The Copper Pockets]] and [[The Goldcrowe Family]] in a trade war.
 ### [[The Yellthorne Family]]
-A former group of druidic gnomes, once determined on keeping a balance between nature and city, eventually were driven out by [[The Palestone Bloodline]] in their plans to expand the [[ShatterSteppe District]].
+A former group of druidic gnomes, once determined on keeping a balance between nature and city, eventually were driven out by [[The Palestone Bloodline]] in their plans to expand the [[The Shattersteppe District]].
 ### [[The Onyxbone Family]]
 This family of tieflings which once was the most prized family of doctors in the city. They mysteriously fell apart due to infighting and a series of events which led to the entire family either moving away from the city, fleeing to [[Pydnetta]] or [[Phericea]]. Or ending up dead in the streets.
 ### [[The Kinslam Family]]
@@ -31,7 +31,7 @@ A family of [[Aarakocra]], they run the largest banks in [[The Copper District]]
 ### [[The Sapphistle Family]]
 A devout human family that maintains the [[Solam Bells]] throughout [[Diveneu]]. Each morning, they ensure the iron bells rings with clarity and proper tones for each [[Daes|Dae]]. Their deep knowledge of [[Time Keeping]] and [[The Panath]] are an essential role in the towns daily worshop, which has earned them significant respect. Though their humble nature keeps them from overtly seeking greater political power.
 ### [[The Shadowbind Family]]
-A secretive Tiefling family of [[Tokonites]] who operate the city's underworld. They run prison systems, interrogation services, and coordinate illicit trade networks. Their understanding of suffering and perseverance makes them both feared and respected.
+A secretive Tiefling family of [[Tokonites]] who operate the city's underworld. They run prison systems, interrogation services, and coordinate illicit trade networks. Their understanding of suffering and perseverance makes them both feared and respected. They frequently take on family members who support the family business.
 ### [[The Swiftquile Family]]
 A family of half-elves who established and maintain [[The Papersteppe Post]]. A network of ground-based messengers connects not only the various districts of [[Diveneu]], but also maintains steady communication with other cities across [[Aurelin]]. Their speed and reliability have made them indispensable to trade and politics in the region.
 ### [[The Ikot Family]]
@@ -52,3 +52,9 @@ A halfling family which owns largest share of the city's brewing and distilling 
 A halfling family devoted to [[Eiselken]], they tend the sacred groves within the city and maintain the memorial gardens in [[The Catacombs]]. Their expertise in preservation magic and earth based rituals makes them valuable allies to [[The Gravesbones Family]].
 ### [[The Thelmsvend Family]]
 This elven family dominates the textile trade, both importing raw silk from from [[Phericea]], refining into many necessary, useful, and magical threads, and exporting across [[Aurelin]]. They also run a shop named [[The Threadweaver Consortium]] in [[The Copper Pocket]].
+### [[The Mistbloom Family]]
+A human family of alchemists and herbalists who specialize in cultivating and processing ingredients such as [[The Pydnetta]]. They run many greenhouses in [[The Shattersteppe District]], and maintain the only legal trade route for Pydnetta products in Diveneu.
+### [[The Zinde Family]]
+A mysterious family of Gith who arrived in Diveneu roughly 30 Yehrs ago, claiming to be refugees from planar conflicts following [[Shattering of The Aegis|The Shattering]]. They work closely with [[The Sanron Company]], They've established themselves as the experts on extraplanar threats and astral magic, operating from an unknown location.
+## [[The Larmanteau Family]]
+A human family which owns a lot of various businesses around town.

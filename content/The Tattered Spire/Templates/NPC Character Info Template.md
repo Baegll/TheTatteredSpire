@@ -3,6 +3,7 @@ tags:
   - example
   - mechanics
   - npc
+draft: true
 ---
 
 | Character Name | Race | Height | Weight | Age | Pronouns |
@@ -10,7 +11,4 @@ tags:
 |                |      |        |        |     |          |
 ## Description
 <!paragraph>
-### Personality
-### History / Background
-### Family
-### Factions
+### Relations

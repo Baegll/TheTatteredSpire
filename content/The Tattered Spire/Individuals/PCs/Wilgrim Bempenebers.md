@@ -19,7 +19,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 202  | 0      | 0      |
+| 0        | 0        | 152  | 0      | 0      |
 
 ## DESCRIPTION
 

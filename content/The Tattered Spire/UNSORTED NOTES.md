@@ -66,4 +66,3 @@ Scalesnout
 - What favor does your character owe that they hope never gets called in?
 - What's the most desperate thing your character has ever done for money?
 - What keeps your character awake at night when they're worried?
-

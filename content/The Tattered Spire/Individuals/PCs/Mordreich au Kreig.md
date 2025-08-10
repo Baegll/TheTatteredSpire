@@ -40,6 +40,7 @@ tags:
 #### Hated
 ### Favors
 - [[Snikz Ikot]] owes a small favor
+- [[Optimal Shadowbind]] owes a strong favor
 
 ## Stats
 
