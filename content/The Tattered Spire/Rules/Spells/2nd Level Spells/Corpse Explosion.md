@@ -3,12 +3,12 @@ tags:
   - mechanics
   - magic
 ---
-2nd level Necromancy
+_2nd level Necromancy (Cleric, Paladin, Sorcerer, Warlock, Wizard)_
 
-Casting Time: 1 Action
-Range: 60 feet
-Components: V, S, M (a corpse visible to be exploded)
-Duration: Instantaneous
+**Casting Time**: 1 Action
+**Range**: 60 feet
+**Components**: V, S, M (a corpse visible to be exploded)
+**Duration**: Instantaneous
 
 A corpse that you can see within range decays and suddenly explodes in a shower of viscera. Each creature within 10 feet of the corpse must make a Dexterity saving Throw. On a failure, a target takes an amount of bludgeoning damage determined by the size of the exploded corpse, or half as much on a success.
 

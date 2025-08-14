@@ -5,7 +5,7 @@ tags:
   - lore
 ---
 ## **Introduction**  
-The sprawling lowland fields of [[Pydnetta]] are home to many wayward vagabonds seeking the euphoric experience of the [[The Laughing Bloom|Laughing Bloom]]. Famous for the violet flower that lends the city its name, Pydnetta is less a city and more a ramshackle sprawl of stilted settlements—hastily raised in response to explosive population growth over the past 50 [[Yehrs]]
+The sprawling lowland fields of [[Pydnetta]] are home to many wayward vagabonds seeking the euphoric experience of the [[The Laughing Bloom|Laughing Bloom]]. Famous for the violet flower that lends the city its name, Pydnetta is less a city and more a ramshackle sprawl of stilted settlements—hastily raised in response to explosive population growth over the past 50 [[Yehr|Yehrs]]
 
 Though the region boasts fertile soil, [[Pydnetta]] remained sparsely inhabited for much of history. The western sea's relentless storms and runoff from the surrounding mountains frequently waterlogged the plains, making permanent settlement unreliable.
 

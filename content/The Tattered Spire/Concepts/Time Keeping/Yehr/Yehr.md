@@ -4,6 +4,7 @@ tags:
   - lore
 aliases:
   - yehrs
+  - Yehrs
 ---
 
 Ye-ahr
