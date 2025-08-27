@@ -20,5 +20,6 @@ The conditions defined are as follows:
 - [[Poisoned]]
 - [[Prone]]
 - [[Restrained]]
+- [[Revealed]]
 - [[Stunned]]
 - [[Unconscious]]
