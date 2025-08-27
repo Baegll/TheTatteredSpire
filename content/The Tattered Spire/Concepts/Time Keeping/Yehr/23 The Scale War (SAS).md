@@ -4,6 +4,7 @@ aliases:
 tags:
   - time
   - lore
+  - dragon
 ---
 
 ##todo:  this. lol

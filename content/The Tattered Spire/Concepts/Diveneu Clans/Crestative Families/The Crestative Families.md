@@ -41,7 +41,7 @@ This mixed-race family founded and operates [[The Sanron Company]] They organize
 ### [[The Wanderstone Family]]
 This half-orc family barters in information. Their contacts within both [[The Sanron Family]] and [[The Crested Families]] serve as valuable tools for adventurers, and those planning political action. Their services are typically not cheap, either costing a vast fortune, or debts that rarely can be repaid. They also serve as protectors of information, extorting families who have secrets they need kept from scrying eyes.
 ### [[The Torken Family]]
-This [[Tortle]] family deals in magical creature butchery. Often a second stop after visiting [[The Sanron Company]], adventurers sell their kills here to be cut down into useful ingredients for spells, delicious exotic meats. This family also acts as a middle-man between nobles wanting exotic pets and adventurers who capture those beasts.
+This [[Tortle]] family deals in magical creature butchery. Their home and business [[The Beast & Bone]], often a second stop after visiting [[The Sanron Company]]. Adventurers sell their kills here to be cut down into useful ingredients for spells, delicious exotic meats. This family also acts as a middle-man between nobles wanting exotic pets and adventurers who capture those beasts.
 ### [[The Dawnbringer Family]]
 A family of mixed humanoid races who worship [[Vordekael]]. They organize seasonal festivals, operate the training grounds, and many of them serve as physical trainers for the other [[The Crested Families|Crested]] and [[The Crestative Families|Crestative]] families' children.
 ### [[The Kelmin Family]]
