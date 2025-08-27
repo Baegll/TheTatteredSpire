@@ -29,8 +29,8 @@ You conjure a binding infernal Contract that compels all signatories to fulfill 
 | 5th          | 3 Yehr            | 10d10  | 2 Yehr             | 12          |
 | 6th          | 6 Yehr            | 10d12  | 3 Yehr             | 14          |
 | 7th          | Permanent         | 20d6   | 6 Yehr             | 16          |
-| 8th          | Permanent         | 20d12  | Permanent          | 18          |
-| 9th          | Permanent         | 20d20  | Permanent          | 20          |
+| 8th          | Permanent         | 20d12  | 10 Yehr            | 18          |
+| 9th          | Permanent         | 20d20  | 30 Yehr            | 20          |
 
 - **2nd Level:** Failed saves against compulsion impose the charmed condition for 1 dae (charmed by the Contract's purpose, not other signatories). 
 - **3rd Level:** The Contract cannot be destroyed by non-magical means. In addition, you may choose one (1) of the Minor Binding Effects from the Additional Binding Effects listed below 
