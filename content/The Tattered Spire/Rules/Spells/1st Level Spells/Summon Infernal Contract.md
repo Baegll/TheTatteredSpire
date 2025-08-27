@@ -56,6 +56,7 @@ You conjure a binding infernal Contract that compels all signatories to fulfill 
 - **Shared Senses:** One designated participant can see through a signee's eyes at will.
 - **Truth Sense:** You have advantage on Insight Checks again others who have signed the Contract.
 - **Whispered Reminders:** Contract signers hear relevant contract terms whispered when they act in ways against the terms of the Contract.
+
 **Major Binding Effects**. _(6th-7th level)_
 - **Archdevil's Proxy:** Once per day, a single Contract signer may cast [[Summon Greater Demon]] at a level equal to the Contracts summon level, minus 1, with no material cost.
 - **Condemnation:** Once per day, all Contract signers can cast [[Condemnation]] at 2nd level against a fellow Contract signer who has broken terms. (The contract fulfils the Material component of the spell.)
@@ -70,6 +71,7 @@ You conjure a binding infernal Contract that compels all signatories to fulfill 
 - **Shared Sleep:** Levels of exhaustion can be transferred between willing Contract signers.
 - **Spell Contingency Clause:** The Contract can contain one contingent spell (up to 3rd level) that triggers automatically upon Contract specified conditions.
 - **Strengthened Soul:** All Contract signers gain proficiency or expertise if they already have proficiency in a skill determined by the Contract.
+
 **Augmented Binding Effects**. _(8th-9th level)_
 - **Augmented Spell Contingency Clause:** The Contract can contain one contingent spell (up to 5th level) that triggers automatically upon Contract specified conditions.
 - **Bloodline Curse:** Contract terms apply to the Participants descendants in the event of failure, or death of the Signer.
