@@ -7,12 +7,12 @@ tags:
 
 | Player Name | Class   | Lvl | Experience | Species   | Height | Gender | Background |
 | ----------- | ------- | --- | ---------- | --------- | ------ | ------ | ---------- |
-| Grace       | Fighter | 3   | 900        | [[Human]] | 5'7"   | Female | Guard      |
+| Grace       | Fighter | 3   | 1350       | [[Human]] | 5'7"   | Female | Guard      |
 
 
 | AC  | Initiative | Speed | Size   | Alignment    |
 | --- | ---------- | ----- | ------ | ------------ |
-| 16  | +2         | 30    | Medium | Neutral Good |
+| 16  | +3         | 30    | Medium | Neutral Good |
 
 | Max HP | HP  | Hit die | Total # HD | Current # HD |
 | ------ | --- | ------- | ---------- | ------------ |
@@ -20,7 +20,7 @@ tags:
 
 | Downtime | Platinum | Gold | Silver | Copper |
 | -------- | -------- | ---- | ------ | ------ |
-| 0        | 0        | 80   | 0      | 0      |
+| 0        | 0        | 100  | 0      | 0      |
 
 ## DESCRIPTION
 

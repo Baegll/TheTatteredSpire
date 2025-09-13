@@ -29,4 +29,4 @@ Latest research from the commendable [[Snikz Ikot]] shows new spell scroll creat
 ### New Head Archivist at [[The Bronze Courts]]' office broken into
 Local guard found nearly dead after several documents went missing. Questions are asked about how effective the new Archivists protection measures are?
 ### [[Vorthak Lostar|Head Archivist]] determined to be a [[Smoke Mephit]] and killed in the streets by brave adventurer duo
-After eyewitnesses saw a smoky form coalesce into Vorthak's body and slain by an adventurer outside [[The Thessarian Temple]]. Proclaimed acting in the wisdom of the god of truth revealed the Mephits true hideous form. Investigation ongoing how the creature gained the trust and standing of Head Archivist at [[The Bronze Courts]]
+After eyewitnesses saw a smoky form coalesce into Vorthak's body and slain by an adventurer outside [[The Thessarian Temple]]. Proclaimed acting in the wisdom of the god of truth revealed the Mephits true hideous form. Investigation ongoing how the creature gained the trust and standing of Head Archivist at [[The Bronze Courts]].

@@ -44,7 +44,6 @@ Scalesnout
 - Vice
 - Odd
 - Excellence
-- Mio
 - Merla
 - Florentina
 - Liana
